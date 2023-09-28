@@ -22,9 +22,18 @@ Aman Kumar's dedication to the field is evident through his extensive research e
 
 🎓 Education
 ======
+
+---
+Degree: Ph.D.
+Subject: Structural Engineering
+University: AcSIR—Academy of Scientific and Innovative Research	
+Year: (Pursuing)
+  
+
+
 Degree		Subject					          University												    			                     Year
 
-Ph.D.		  Structural Engineering		AcSIR—Academy of Scientific and Innovative Research						(Pursuing)
+		  							
 
 M.E.		  CTM*  					          Panjab University						 							                       2018
 

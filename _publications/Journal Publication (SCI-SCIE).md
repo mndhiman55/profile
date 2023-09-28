@@ -6,7 +6,6 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
 
 1. Aman Kumar, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir (2023). Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods. Arabian Journal for Science and Engineering. DOI:
 
@@ -41,7 +40,7 @@ redirect_from:
 16. Aman Kumar, Harish Chandra Arora, Mazin Abed Mohammed, Krishna Kumar, Jan Nedoma (2021). An optimized neuro-bee algorithm approach to predict the FRP-concrete bond strength of RC beams. IEEE Access. DOI: 10.1109/ACCESS.2021.3140046
 
 
----
+
 permalink: /
 title: Journal Publications (Scopus Indexed)  
 excerpt: 
@@ -51,25 +50,3 @@ redirect_from:
   - /about.html
 ---
 
-
-
----
-permalink: /
-title: Journal Publications (Other than Scopus Indexing)   
-excerpt: 
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-
-
----
-permalink: /
-title: Conference Publications    
-excerpt: 
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----

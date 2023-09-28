@@ -28,20 +28,6 @@ M.S., Physics | The University of Texas at Dallas (December 2019)
 B.S., Physics | The University of Texas at Dallas (May 2017)
 
 
-Degree: Ph.D.
-Subject: Structural Engineering
-University: AcSIR—Academy of Scientific and Innovative Research	
-Year: (Pursuing)
-  
-
-
-Degree		Subject					          University												    			                     Year
-
-		  							
-
-M.E.		  CTM*  					          Panjab University						 							                       2018
-
-B.Tech.		Civil Engineering			    I.K. Gujral Punjab Technical University	                         2016
-
-
-*Construction Technology and Management 
+Ph.D.| Structural Engineering| AcSIR—Academy of Scientific and Innovative Research | Pursuing
+M.E. | Construction Technology and Management  | Panjab University | 2018
+B.Tech.	| Civil Engineering | I.K. Gujral Punjab Technical University | 2016

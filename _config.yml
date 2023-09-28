@@ -82,7 +82,11 @@ analytics:
 author:
   name             : "Aman Kumar"
   avatar           : "aman-profile-pic.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "👋 Hello I am Aman!
+
+I'm a Project Associate at the CSIR-CBRI, Roorkee.
+
+I'm currently working on hybrid topics to solve the machine learning problems civil engineering. "
   location         : "Roorkee, India"
   employer         : "CSIR-CBRI, Roorkee"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

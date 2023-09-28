@@ -14,11 +14,12 @@ redirect_from:
 
 📚 I'm currently working on hybrid topics to solve Civil Engineering problems with Machine Learning problems algorithms. 
 
-A data-driven personal website
+About Me
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Aman Kumar hails from Bilaspur, Himachal Pradesh, India. He holds a Master of Engineering degree in construction technology and management from the prestigious National Institute of Technical Teacher’s Training and Research Institute in Chandigarh, India.
+Currently, he is fervently pursuing a Ph.D. in engineering sciences, specializing in structural engineering, at the renowned CSIR-Central Building Research Institute in Roorkee, India. His academic journey is underscored by a deep passion for various facets of civil engineering, including sustainability development, non-destructive testing, concrete technology, and strengthening techniques such as fiber reinforced polymer and fiber reinforced cementitious matrix. He is also deeply engaged in exploring corrosion protection techniques for structural design, as well as the cutting-edge domains of artificial intelligence and the Internet of Things. Now his focus to solve the complex structural engineering problems with machine learning algorithms.
+Aman Kumar's dedication to the field is evident through his extensive research endeavours and comprehensive technical surveys. His scholarly pursuits have culminated in numerous research papers and book chapters, which have been featured in esteemed international scientific publications.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======

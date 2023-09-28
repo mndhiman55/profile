@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 
 ---
-
+<p style="text-align: justify;">
 1. Aman Kumar, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir (2023). Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods. Arabian Journal for Science and Engineering. DOI:
-
+</p>
 2. Aman Kumar, Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan (2023). Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System. Computers and Concrete. DOI: https://doi.org/10.12989/cac.2023.32.2.119  
 
 3. Krishna Kumar, Gaurav Saini, Aman Kumar, Rajvikram Madurai Elavarasan, Zafar Said, Vladimir Terzija (2023). Effective monitoring of Pelton turbine based hydropower plants using data-driven approach. International Journal of Electrical Power & Energy Systems. DOI: https://doi.org/10.1016/j.ijepes.2023.109047    

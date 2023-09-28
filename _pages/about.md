@@ -23,7 +23,11 @@ Aman Kumar's dedication to the field is evident through his extensive research e
 🎓 Education
 ======
 
----
+Ph.D., Physics | The University of Texas at Dallas (May 2022)
+M.S., Physics | The University of Texas at Dallas (December 2019)
+B.S., Physics | The University of Texas at Dallas (May 2017)
+
+
 Degree: Ph.D.
 Subject: Structural Engineering
 University: AcSIR—Academy of Scientific and Innovative Research	

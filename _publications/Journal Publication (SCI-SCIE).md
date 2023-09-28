@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 
+title: Journal Publications (SCI/SCIE) 
 excerpt: 
 author_profile: true
 redirect_from: 
@@ -38,4 +38,38 @@ redirect_from:
 
 15. Aman Kumar, Harish Chandra Arora, Krishna Kumar, Mazin Abed Mohammed, Arnab Majumdar, Achara Khamaksorn, Orawit Thinnukool (2022). Prediction of FRCM-Concrete bond strength with machine learning. Sustainability. DOI: https://doi.org/10.3390/su14020845   
 
-16. Aman Kumar, Harish Chandra Arora, Mazin Abed Mohammed, Krishna Kumar, Jan Nedoma (2021). An optimized neuro-bee algorithm approach to predict the FRP-concrete bond strength of RC beams. IEEE Access. DOI: 10.1109/ACCESS.2021.3140046 
+16. Aman Kumar, Harish Chandra Arora, Mazin Abed Mohammed, Krishna Kumar, Jan Nedoma (2021). An optimized neuro-bee algorithm approach to predict the FRP-concrete bond strength of RC beams. IEEE Access. DOI: 10.1109/ACCESS.2021.3140046
+
+
+---
+permalink: /
+title: Journal Publications (Scopus Indexed)  
+excerpt: 
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+
+---
+permalink: /
+title: Journal Publications (Other than Scopus Indexing)   
+excerpt: 
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+
+---
+permalink: /
+title: Conference Publications    
+excerpt: 
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---

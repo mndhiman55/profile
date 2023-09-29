@@ -2,7 +2,7 @@
 permalink: /
 title: Journal Publications (SCI/SCIE) 
 excerpt: 
-author_profile: true
+author_profile: false
 redirect_from: 
  
 ---

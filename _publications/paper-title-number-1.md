@@ -1,5 +1,5 @@
 ---
-title: "Book Chapters"
+title: "📋 Book Chapters"
 collection: 
 permalink: 
 excerpt: 

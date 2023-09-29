@@ -8,7 +8,7 @@ citation:
 ---
 
 <div style="text-align: justify;">
-<strong>1.</strong> <span style="color: #8B0000;"><em><strong>Aman Kumar</strong></em></span>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir (<span style="color: #8B0000;"><strong>2023</strong></span>). <strong><span style="font-weight: bold;">Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods</span></strong>. <strong><span style="font-weight: bold;">Arabian Journal for Science and Engineering</span></strong>.
+<strong>2.</strong> <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong> <strong><span style="color: #0000FF;"><em>Aman Kumar</em>,</span></strong> Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan. <em>Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System</em>. Computers and Concrete. <a href="https://doi.org/10.12989/cac.2023.32.2.119">https://doi.org/10.12989/cac.2023.32.2.119</a>
 </div>
 
 <div style="text-align: justify;">

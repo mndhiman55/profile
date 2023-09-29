@@ -10,9 +10,9 @@ redirect_from:
 
 👋 Hello I am Aman!
 
-🔬 I'm a Project Associate at the CSIR-CBRI, Roorkee.
+🔬 I'm working as a Project Associate at CSIR-CBRI, Roorkee.
 
-📚 I'm currently working on hybrid topics to solve Civil Engineering problems with Machine Learning problems algorithms. 
+📚 I'm currently working on hybrid topics to solve Civil Engineering problems with Machine Learning algorithms. 
 
 👨‍🎓 About Me
 ======

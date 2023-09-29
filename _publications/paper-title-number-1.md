@@ -7,16 +7,13 @@ venue:
 citation: 
 ---
 
+
+<div style="text-align: justify;">
+<strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods</em>. <strong>Arabian Journal for Science and Engineering</strong>.
+</div>
+
 <div style="text-align: justify;">
 <strong>2. </strong><strong><span style="color: #0000FF;">Aman Kumar,</span></strong> Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System</em>. <strong>Computers and Concrete</strong>. <a href="https://doi.org/10.12989/cac.2023.32.2.119">https://doi.org/10.12989/cac.2023.32.2.119</a>
-</div>
-
-<div style="text-align: justify;">
-<strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir (2023). Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods. Arabian Journal for Science and Engineering.
-</div>
-
-<div style="text-align: justify;">
-<strong>2.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan (2023). Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System. Computers and Concrete. <a href="https://doi.org/10.12989/cac.2023.32.2.119">https://doi.org/10.12989/cac.2023.32.2.119</a>
 </div>
 
 <div style="text-align: justify;">
@@ -73,41 +70,4 @@ citation:
 
 <div style="text-align: justify;">
     <strong>16.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Mazin Abed Mohammed, Krishna Kumar, Jan Nedoma (2021). An optimized neuro-bee algorithm approach to predict the FRP-concrete bond strength of RC beams. IEEE Access. 
-</div>
-
-
-<div style="text-align: justify;">
-<strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir</span></strong> (<span style="color: #FF0000; font-weight: bold;">2023</span>). <em>Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods</em>. <strong>Arabian Journal for Science and Engineering</strong>. DOI: [Insert DOI here]
-</div>
-
-<div style="text-align: justify;">
-<strong>2.</strong> <strong><span style="color: #0000FF;">Aman Kumar, Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan</span></strong> (<span style="color: #FF0000; font-weight: bold;">2023</span>). <em>Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System</em>. <strong>Computers and Concrete</strong>. DOI: <a href="https://doi.org/10.12989/cac.2023.32.2.119">https://doi.org/10.12989/cac.2023.32.2.119</a>
-</div>
-
-<div style="text-align: justify;">
-<strong>3.</strong> <strong><span style="color: #0000FF;">Krishna Kumar, Gaurav Saini, Aman Kumar, Rajvikram Madurai Elavarasan, Zafar Said, Vladimir Terzija</span></strong> (<span style="color: #FF0000; font-weight: bold;">2023</span>). <em>Effective monitoring of Pelton turbine based hydropower plants using data-driven approach</em>. <strong>International Journal of Electrical Power & Energy Systems</strong>. DOI: <a href="https://doi.org/10.1016/j.ijepes.2023.109047">https://doi.org/10.1016/j.ijepes.2023.109047</a>
-</div>
-
-<div style="text-align: justify;">
-<strong>4.</strong> <strong><span style="color: #0000FF;">Aman Kumar, Harish Chandra Arora, Krishna Kumar, Harish Garg</span></strong> (<span style="color: #FF0000; font-weight: bold;">2023</span>). <em>Performance prognosis of FRCM-to-concrete bond strength using ANFIS-based fuzzy algorithm</em>. <strong>Expert Systems with Applications</strong>. DOI: <a href="https://doi.org/10.1016/j.eswa.2022.119497">https://doi.org/10.1016/j.eswa.2022.119497</a>
-</div>
-
-<div style="text-align: justify;">
-<strong>5.</strong> <strong><span style="color: #0000FF;">Prashant Kumar, Harish Chandra Arora, Alireza Bahrami, Aman Kumar, Krishna Kumar</span></strong> (<span style="color: #FF0000; font-weight: bold;">2023</span>). <em>Development of a Reliable Machine Learning Model to Predict Compressive Strength of FRP-Confined Concrete Cylinders</em>. <strong>Buildings</strong>. DOI: <a href="https://doi.org/10.3390/buildings13040931">https://doi.org/10.3390/buildings13040931</a>
-</div>
-
-<div style="text-align: justify;">
-<strong>6.</strong> <strong><span style="color: #0000FF;">Somain Sharma, Harish Chandra Arora, Aman Kumar, Denise-Penelope N Kontoni, Nishant Raj Kapoor, Krishna Kumar, Arshdeep Singh</span></strong> (<span style="color: #FF0000; font-weight: bold;">2023</span>). <em>Computational Intelligence-Based Structural Health Monitoring of Corroded and Eccentrically Loaded Reinforced Concrete Columns</em>. <strong>Shock and Vibration</strong>. DOI: <a href="https://doi.org/10.1155/2023/9715120">https://doi.org/10.1155/2023/9715120</a>
-</div>
-
-<div style="text-align: justify;">
-<strong>7.</strong> <strong><span style="color: #0000FF;">Aman Kumar, Harish Chandra Arora, Nishant Raj Kapoor, Krishna Kumar, Marijana Hadzima-Nyarko, Dorin Radu</span></strong> (<span style="color: #FF0000; font-weight: bold;">2023</span>). <em>Machine learning intelligence to assess the shear capacity of corroded reinforced concrete beams</em>. <strong>Scientific Reports</strong>. DOI: <a href="https://doi.org/10.1038/s41598-023-30037-9">https://doi.org/10.1038/s41598-023-30037-9</a>
-</div>
-
-<div style="text-align: justify;">
-<strong>8.</strong> <strong><span style="color: #0000FF;">Harish Chandra Arora, Sourav Kumar, Denise-Penelope N Kontoni, Aman Kumar, Madhu Sharma, Nishant Raj Kapoor, Krishna Kumar</span></strong> (<span style="color: #FF0000; font-weight: bold;">2022</span>). <em>Axial Capacity of FRP-Reinforced Concrete Columns: Computational Intelligence-Based Prognosis for Sustainable Structures</em>. <strong>Buildings</strong>. DOI: <a href="https://doi.org/10.3390/buildings12122137">https://doi.org/10.3390/buildings12122137</a>
-</div>
-
-<div style="text-align: justify;">
-<strong>9.</strong> <strong><span style="color: #0000FF;">Rohan Singh, Harish Chandra Arora, Alireza Bahrami, Aman Kumar, Nishant Raj Kapoor, Krishna Kumar, Hardeep Singh Rai</span></strong> (<span style="color: #FF0000; font-weight: bold;">2022</span>). <em>Enhancing Sustainability of Corroded RC Structures: Estimating Steel-to-Concrete Bond Strength with ANN and SVM Algorithms</em>. <strong>Materials</strong>. DOI: <a href="https://doi.org/10.3390/ma15238295">https://doi.org/10.3390/ma15238295</a>
 </div>

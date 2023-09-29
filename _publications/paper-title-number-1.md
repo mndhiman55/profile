@@ -71,4 +71,3 @@ citation:
 <div style="text-align: justify;">
     <strong>16.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Mazin Abed Mohammed, Krishna Kumar, Jan Nedoma <strong><span style="color: #FF0000; font-weight: bold;">(2021)</span></strong>. <em>An optimized neuro-bee algorithm approach to predict the FRP-concrete bond strength of RC beams</em>. <strong>IEEE Access</strong>. <a href="https://doi.org/10.1109/ACCESS.2021.3140046">https://doi.org/10.1109/ACCESS.2021.3140046</a>
 </div>
-</div>

@@ -1,5 +1,5 @@
 ---
-title: "Journal Publications (SCI/SCIE)"
+title: "📰 Journal Publications (SCI/SCIE)"
 collection: "Journal"
 permalink: 
 excerpt: 

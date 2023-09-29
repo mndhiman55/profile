@@ -1,5 +1,5 @@
 ---
-title: "Journal Publications (Scopus Indexed)"
+title: "📝 Journal Publications (Scopus Indexed)"
 collection: 
 permalink: 
 excerpt: 

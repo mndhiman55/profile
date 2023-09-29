@@ -4,9 +4,7 @@ title: Journal Publications (SCI/SCIE)
 excerpt: 
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
-
+ 
 ---
 
 <span style="color: #0000FF; text-align: justify;">Aman Kumar</span>, Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan (2023). Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System. Computers and Concrete. [https://doi.org/10.12989/cac.2023.32.2.119](https://doi.org/10.12989/cac.2023.32.2.119)

@@ -1,6 +1,6 @@
 ---
 title: "Journal Publications (SCI/SCIE)"
-collection: 
+collection: "Journal"
 permalink: 
 excerpt: 
 venue: 

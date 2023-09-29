@@ -4,8 +4,7 @@ collection:
 permalink: 
 excerpt: 
 venue: 
-paperurl: 
-citation: '
+citation: 
 ---
 
 1. <span style="color: #0000FF; text-align: justify;">Aman Kumar</span>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir (2023). Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods. Arabian Journal for Science and Engineering.

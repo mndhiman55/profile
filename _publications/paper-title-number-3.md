@@ -6,18 +6,17 @@ excerpt:
 venue: 
 citation: 
 ---
+<div style="text-align: justify;">
+    <span style="color: #0000FF;">Aman Kumar, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir (2023).</span> Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods. Arabian Journal for Science and Engineering.
+</div>
 
-1. <div style="text-align: justify;">
-<span style="color: #0000FF;">Aman Kumar</span>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir (2023). Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods. Arabian Journal for Science and Engineering.
+<div style="text-align: justify;">
+    <span style="color: #0000FF;">Aman Kumar</span>, Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan (2023). Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System. Computers and Concrete. <a href="https://doi.org/10.12989/cac.2023.32.2.119">https://doi.org/10.12989/cac.2023.32.2.119</a>
 </div>
 
 
-2. <div style="text-align: justify;">
-   <span style="color: #0000FF;">Aman Kumar</span>, Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan (2023). Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System. Computers and Concrete. <a href="https://doi.org/10.12989/cac.2023.32.2.119">https://doi.org/10.12989/cac.2023.32.2.119</a>
-</div>
-
-3. <div style="text-align: justify;">
-Krishna Kumar, Gaurav Saini, <span style="color: #0000FF;">Aman Kumar</span>, Rajvikram Madurai Elavarasan, Zafar Said, Vladimir Terzija (2023). Effective monitoring of Pelton turbine based hydropower plants using data-driven approach. International Journal of Electrical Power & Energy Systems. <a href="https://doi.org/10.1016/j.ijepes.2023.109047">[https://doi.org/10.12989/cac.2023.32.2.119](https://doi.org/10.1016/j.ijepes.2023.109047)</a>
+<div style="text-align: justify;">
+    <span style="color: #0000FF;">Krishna Kumar, Gaurav Saini, Aman Kumar, Rajvikram Madurai Elavarasan, Zafar Said, Vladimir Terzija (2023).</span> Effective monitoring of Pelton turbine-based hydropower plants using a data-driven approach. International Journal of Electrical Power & Energy Systems. DOI: <a href="https://doi.org/10.1016/j.ijepes.2023.109047">https://doi.org/10.1016/j.ijepes.2023.109047</a>
 </div>
 
 

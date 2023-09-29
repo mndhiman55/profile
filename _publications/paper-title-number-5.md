@@ -1,10 +1,5 @@
 ---
 title: "📰 Journal Publications (SCI/SCIE)"
-collection: "Journal"
-permalink: 
-excerpt: 
-venue: 
-citation: 
 ---
 
 

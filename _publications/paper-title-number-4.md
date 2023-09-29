@@ -19,7 +19,7 @@ citation:
 </div>
 
 <div style="text-align: justify;">
-    <strong>4.</strong> Raunaq Singh Suri, Vikrant Dubey, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Megha Bhushan <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. Optimizing the compressive strength of concrete with altered compositions using hybrid PSO-ANN. <strong>Lecture Notes in Networks and System</strong>>. Springer. <a href="https://doi.org/10.1007/978-3-031-13150-9_15">https://doi.org/10.1007/978-3-031-13150-9_15</a>
+    <strong>4.</strong> Raunaq Singh Suri, Vikrant Dubey, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Megha Bhushan <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. Optimizing the compressive strength of concrete with altered compositions using hybrid PSO-ANN. <strong>Lecture Notes in Networks and System</strong>. Springer. <a href="https://doi.org/10.1007/978-3-031-13150-9_15">https://doi.org/10.1007/978-3-031-13150-9_15</a>
 </div>
 
 <div style="text-align: justify;">

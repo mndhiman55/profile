@@ -11,5 +11,5 @@ citation:
 </div>
 
 <div style="text-align: justify;">
-    <strong>2.</strong> Ashok Kumar, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Akash Deep, Kishor S. Kulkarni, Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. <em></em>Public perception on SARS-CoV-2 transmission and air disinfection systems: A study</em>.  <strong>International Journal of Environmental Planning and Development</strong>. 
+    <strong>2.</strong> Ashok Kumar, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Akash Deep, Kishor S. Kulkarni, Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. <em>Public perception on SARS-CoV-2 transmission and air disinfection systems: A study</em>.  <strong>International Journal of Environmental Planning and Development</strong>. 
 </div>

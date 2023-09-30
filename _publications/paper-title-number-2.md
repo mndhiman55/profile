@@ -6,6 +6,10 @@ excerpt:
 venue: 
 citation: 
 ---
+
+---
+---
+
 <div style="text-align: justify;">
     <strong>1.</strong> Sidhant Jindal, Moolchand, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP2000 Software in Accordance with Different Indian Guidelines. <strong>SSRN</strong>. Elsevier. <a href="http://dx.doi.org/10.2139/ssrn.4556976">http://dx.doi.org/10.2139/ssrn.4556976</a>
 </div>

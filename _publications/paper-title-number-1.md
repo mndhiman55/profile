@@ -6,6 +6,9 @@ excerpt:
 venue: 
 citation: 
 ---
+
+---
+---
 <div style="text-align: justify;">
     <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Air Quality Modelling for Smart Cities of India by Nature Inspired AI – A Sustainable Approach</em>. <strong>Applications of Nature-inspired Computing and Optimization Techniques</strong>. Elsevier. 
 </div>

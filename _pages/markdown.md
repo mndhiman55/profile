@@ -1,16 +1,52 @@
----
+![image](https://github.com/mndhiman55/profile/assets/145184943/d52090bf-e106-46a1-a62a-0b3b3d34da57)![image](https://github.com/mndhiman55/profile/assets/145184943/f68f189e-1dcc-496a-b729-2ac22e5b4a87)---
 permalink: /markdown/
-title: "Markdown"
+title: "Bachelor of Engineering"
 author_profile: true
 redirect_from: 
   - /md/
   - /markdown.html
 ---
 
-## Locations of key files/directories
+## UG STUDENTS
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
+* Somain Sharma, PEC, Chandigarh, (January to July 2022)
+  Topic: Computational Intelligence-Based Structural Health Monitoring of Corroded and Eccentrically Loaded Reinforced Concrete Columns
+
+* Sourav Kumar, JNGEC, H.P.,  (March to July 2022)
+  Topic: Axial Capacity of FRP-Reinforced Concrete Columns: Computational Intelligence-Based Prognosis for Sustainable Structures
+
+* Tamnna, JNGEC, H.P.,  (March to July 2022)
+  Topic: Estimation of Chloride Induced Corrosion in Reinforced Concrete Structures: A Neural Network Approach
+
+* Rohan Singh, GNDEC, Ludhiana, July to December 2022
+Topic: Enhancing Sustainability of Corroded RC Structures: Estimating Steel-to-Concrete Bond Strength with ANN and SVM Algorithms
+
+* Yogesh Kumar, GNDEC, Ludhiana, July to December 2022
+  Topic: Neural Network Based Algorithm to Estimate the Axial Capacity of Corroded RC Columns
+
+* Sarvanshdeep Singh Sahota, GNDEC, Ludhiana, July to December 2022
+  Topic: ML-Based Computational Model to Estimate the Compressive Strength of Sustainable Concrete Integrating Silica Fume and Steel Fibers
+
+* Sharanjit Singh, GNDEC, Ludhiana, July to December 2022
+  Topic: Evaluating 28-Days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks
+
+* Siddhant Jindal and Mool Chand, GNDEC, Ludhiana, July to December 2022 
+  Topic: Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP 2000 Software in Accordance with Different Indian Guidelines
+
+
+
+  
+ 
+
+
+
+
+
+
+
+
+
+
 * Single pages: _pages/
 * Collections of pages are .md or .html files in:
   * _publications/
@@ -22,7 +58,7 @@ redirect_from:
 * Static files (like PDFs): /files/
 * Profile image (can set in _config.yml): images/profile.png
 
-## Tips and hints
+## PG STUDENTS
 
 * Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
 * Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 

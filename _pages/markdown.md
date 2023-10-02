@@ -46,7 +46,7 @@ redirect_from:
   Topic: Computational Intelligence-Based Structural Health Monitoring of Corroded and Eccentrically Loaded Reinforced Concrete Columns
 </div>
 
-- <div style="text-align: justify;">**Somain Sharma**, PEC, Chandigarh, (January to July 2022)<br>
+- <div style="text-align: justify;">Somain Sharma, PEC, Chandigarh, (January to July 2022)<br>
   Topic: Computational Intelligence-Based Structural Health Monitoring of Corroded and Eccentrically Loaded Reinforced Concrete Columns</div>
 
 

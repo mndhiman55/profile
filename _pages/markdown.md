@@ -1,5 +1,6 @@
+---
 permalink: /markdown/
-title: "Bachelor of Engineering"
+title: "Trainee Students"
 author_profile: true
 redirect_from: 
   - /md/

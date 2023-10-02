@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ---
-title: "Publications"
+title: #"Publications"
 ---
 
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>

@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ## UG STUDENTS
-
+<div style="text-align: justify;">
 * Nishant, NIT Kurukshetra (January to July 2023)  
   Topic: 
 
@@ -35,8 +35,7 @@ redirect_from:
 
 * Somain Sharma, PEC, Chandigarh, (January to July 2022)  
   Topic: Computational Intelligence-Based Structural Health Monitoring of Corroded and Eccentrically Loaded Reinforced Concrete Columns
-
-
+</div>
 
 
 

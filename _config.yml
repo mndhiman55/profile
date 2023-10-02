@@ -86,7 +86,7 @@ author:
   employer         : "<span style='font-size: 16px;'>CSIR-CBRI, Roorkee</span>"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow</span>"
   googlescholar    : "<span style='font-size: 16px;'>https://scholar.google.com/citations?user=eLZ2jIoAAAAJ&hl=en&authuser=2</span>"
-  email            : "<span style='font-size: 16px;'>aman.civil16@nitttrchd.ac.in</span>"
+  <span style='font-size: 16px;'>email</span>            : "<span style='font-size: 16px;'>aman.civil16@nitttrchd.ac.in</span>"
   researchgate     : "<span style='font-size: 16px;'>https://www.researchgate.net/profile/Aman-Kumar-255</span>"
   uri              :
   bitbucket        :

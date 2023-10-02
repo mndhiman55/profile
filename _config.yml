@@ -81,7 +81,7 @@ analytics:
 author:
   name             : #"Aman Kumar"
   avatar           : "aman-profile-pic.png"
-  bio              : "<span style='font-size: 20px;'>Engineer | Researcher | Author | Editor | Inventor | Reviewer |</span>" 
+  bio              : "<span style='font-size: 18px;'>Engineer | Researcher | Author | Editor | Inventor | Reviewer |</span>" 
   location         : "Roorkee, India"
   employer         : "CSIR-CBRI, Roorkee"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

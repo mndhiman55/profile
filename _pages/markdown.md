@@ -10,8 +10,7 @@ redirect_from:
 ## UG STUDENTS
 
 * Somain Sharma, PEC, Chandigarh, (January to July 2022)
-
-  Topic: Computational Intelligence-Based Structural Health Monitoring of Corroded and Eccentrically Loaded Reinforced Concrete Columns
+  -Topic: Computational Intelligence-Based Structural Health Monitoring of Corroded and Eccentrically Loaded Reinforced Concrete Columns
 
 * Sourav Kumar, JNGEC, H.P.,  (March to July 2022)
   Topic: Axial Capacity of FRP-Reinforced Concrete Columns: Computational Intelligence-Based Prognosis for Sustainable Structures

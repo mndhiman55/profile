@@ -1,4 +1,3 @@
-![image](https://github.com/mndhiman55/profile/assets/145184943/d52090bf-e106-46a1-a62a-0b3b3d34da57)![image](https://github.com/mndhiman55/profile/assets/145184943/f68f189e-1dcc-496a-b729-2ac22e5b4a87)---
 permalink: /markdown/
 title: "Bachelor of Engineering"
 author_profile: true
@@ -19,7 +18,7 @@ redirect_from:
   Topic: Estimation of Chloride Induced Corrosion in Reinforced Concrete Structures: A Neural Network Approach
 
 * Rohan Singh, GNDEC, Ludhiana, July to December 2022
-Topic: Enhancing Sustainability of Corroded RC Structures: Estimating Steel-to-Concrete Bond Strength with ANN and SVM Algorithms
+  Topic: Enhancing Sustainability of Corroded RC Structures: Estimating Steel-to-Concrete Bond Strength with ANN and SVM Algorithms
 
 * Yogesh Kumar, GNDEC, Ludhiana, July to December 2022
   Topic: Neural Network Based Algorithm to Estimate the Axial Capacity of Corroded RC Columns

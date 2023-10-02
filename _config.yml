@@ -81,13 +81,13 @@ analytics:
 author:
   name             : #"Aman Kumar"
   avatar           : "aman-profile-pic.png"
-  bio              : "<span style='font-size: 18px; text-align: center; display: block; margin: 0 auto;'>Engineer | Researcher | Author | Editor | Inventor | Reviewer |</span>" 
-  location         : "<span style='font-size: 16px;'>Roorkee, India</span>"
-  employer         : "<span style='font-size: 16px;'>CSIR-CBRI, Roorkee</span>"
+  bio              : "<span style='font-size: 16px; text-align: center; display: block; margin: 0 auto;'>Engineer | Researcher | Author | Editor | Inventor | Reviewer |</span>" 
+  location         : "Roorkee, India"
+  employer         : "CSIR-CBRI, Roorkee"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow</span>"
-  googlescholar    : "<span style='font-size: 16px;'>https://scholar.google.com/citations?user=eLZ2jIoAAAAJ&hl=en&authuser=2</span>"
-  <span style='font-size: 16px;'>email</span>            : "<span style='font-size: 16px;'>aman.civil16@nitttrchd.ac.in</span>"
-  researchgate     : "<span style='font-size: 16px;'>https://www.researchgate.net/profile/Aman-Kumar-255</span>"
+  googlescholar    : "https://scholar.google.com/citations?user=eLZ2jIoAAAAJ&hl=en&authuser=2"
+  email            : "aman.civil16@nitttrchd.ac.in"
+  researchgate     : "https://www.researchgate.net/profile/Aman-Kumar-255"
   uri              :
   bitbucket        :
   codepen          :
@@ -98,11 +98,11 @@ author:
   github           : 
   google_plus      :
   keybase          :
-  instagram        : "<span style='font-size: 16px;'>https://www.instagram.com/</span>"
+  instagram        : "https://www.instagram.com/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  LinkedIn         : "<span style='font-size: 16px;'>https://www.linkedin.com/in/aman-kumar-aa7291178/</span>"
-  orcid            : "<span style='font-size: 16px;'>https://orcid.org/0000-0002-4718-3903</span>"
+  LinkedIn         : "https://www.linkedin.com/in/aman-kumar-aa7291178/"
+  orcid            : "https://orcid.org/0000-0002-4718-3903"
   pinterest        :
   soundcloud       :
   stackoverflow    : #http://stackoverflow.com/users/123456/username
@@ -113,7 +113,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  scopus           : "<span style='font-size: 16px;'>https://www.scopus.com/authid/detail.uri?authorId=57189224222</span>"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57189224222"
 
 
 # Reading Files

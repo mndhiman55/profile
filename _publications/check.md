@@ -2,7 +2,7 @@
 title: "Publications"
 ---
 
-## 📰 Journal Publications (SCI/SCIE)
+## <span style="color: #00FF00;">📰 Journal Publications (SCI/SCIE)</span>
 
 <div style="text-align: justify;">
 <strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods</em>. <strong>Arabian Journal for Science and Engineering</strong>.

@@ -44,7 +44,7 @@ redirect_from:
 ## PG STUDENTS
 
 
-- <div style="text-align: justify;">Sleek Chang, GNDEC, Ludhiana, January to August 2023  
+- <div style="text-align: justify;">Sleek Chang, GNDEC, Ludhiana, January to August 2023<br>  
   Topic:</div>
   
  

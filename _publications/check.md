@@ -69,7 +69,7 @@ title: "Publications"
 </div>
 
 
-## 📝 Journal Publications (Scopus Indexed)
+## <span style="color: #9933ff;">## 📝 Journal Publications (Scopus Indexed)</span>
 
 <div style="text-align: justify;">
     <strong>1.</strong> Sharanjit Singh, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Nishant Raj Kapoor, Kennedy C. Onyelowe, Krishna Kumar, Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Evaluating 28-days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks</em>. <strong>Advances in Materials Science and Engineering</strong>. <a href="https://doi.org/10.1155/2023/1177458">https://doi.org/10.1155/2023/1177458</a>
@@ -80,7 +80,7 @@ title: "Publications"
 </div>
 
 
-## Journal Publications (Other than Scopus Indexing)
+## <span style="color: #9933ff;">## Journal Publications (Other than Scopus Indexing)</span>
 
 <div style="text-align: justify;">
     <strong>1.</strong> Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar and Nishant Raj Kapoor <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>An Overview: How to Conduct a Structural Audit of Buildings Structures</em>. <strong>Structural Engineering Digest</strong>. 
@@ -94,7 +94,7 @@ title: "Publications"
     <strong>3.</strong> Ashok Kumar, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Akash Deep, Kishor S. Kulkarni, Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. <em>Public perception on SARS-CoV-2 transmission and air disinfection systems: A study</em>.  <strong>International Journal of Environmental Planning and Development</strong>. 
 </div>
 
-## Conference Publications
+## <span style="color: #9933ff;">## Conference Publications</span>
 
 <div style="text-align: justify;">
     <strong>1.</strong> Sidhant Jindal, Moolchand, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP2000 Software in Accordance with Different Indian Guidelines. <strong>SSRN</strong>. Elsevier. <a href="http://dx.doi.org/10.2139/ssrn.4556976">http://dx.doi.org/10.2139/ssrn.4556976</a>
@@ -117,7 +117,7 @@ title: "Publications"
 </div>
 
 
-## 📋 Book Chapters
+## <span style="color: #9933ff;">## 📋 Book Chapters</span>
 
 <div style="text-align: justify;">
     <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Air Quality Modelling for Smart Cities of India by Nature Inspired AI – A Sustainable Approach</em>. <strong>Applications of Nature-inspired Computing and Optimization Techniques</strong>. Elsevier. 

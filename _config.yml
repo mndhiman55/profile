@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aman's Profile"
+title                    : "Aman Kumar"
 title_separator          : "-"
-name                     : &Aman Kumar"
+name                     : "Aman Kumar"
 description              : &description "personal description"
 url                      : https://mndhiman55.github.io/profile/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Aman Kumar"
+  name             : #"Aman Kumar"
   avatar           : "aman-profile-pic.png"
   bio              : "Engineer | Researcher | Author | Editor | Inventor | Reviewer |" 
   location         : "Roorkee, India"

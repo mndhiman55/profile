@@ -12,28 +12,29 @@ redirect_from:
 * Somain Sharma, PEC, Chandigarh, (January to July 2022)  
   Topic: Computational Intelligence-Based Structural Health Monitoring of Corroded and Eccentrically Loaded Reinforced Concrete Columns
 
-* Sourav Kumar, JNGEC, H.P.,  (March to July 2022)
+* Sourav Kumar, JNGEC, H.P.,  (March to July 2022)  
   Topic: Axial Capacity of FRP-Reinforced Concrete Columns: Computational Intelligence-Based Prognosis for Sustainable Structures
 
-* Tamnna, JNGEC, H.P.,  (March to July 2022)
+* Tamnna, JNGEC, H.P.,  (March to July 2022)  
   Topic: Estimation of Chloride Induced Corrosion in Reinforced Concrete Structures: A Neural Network Approach
 
-* Rohan Singh, GNDEC, Ludhiana, July to December 2022
+* Rohan Singh, GNDEC, Ludhiana, July to December 2022  
   Topic: Enhancing Sustainability of Corroded RC Structures: Estimating Steel-to-Concrete Bond Strength with ANN and SVM Algorithms
 
-* Yogesh Kumar, GNDEC, Ludhiana, July to December 2022
+* Yogesh Kumar, GNDEC, Ludhiana, July to December 2022  
   Topic: Neural Network Based Algorithm to Estimate the Axial Capacity of Corroded RC Columns
 
-* Sarvanshdeep Singh Sahota, GNDEC, Ludhiana, July to December 2022
+* Sarvanshdeep Singh Sahota, GNDEC, Ludhiana, July to December 2022  
   Topic: ML-Based Computational Model to Estimate the Compressive Strength of Sustainable Concrete Integrating Silica Fume and Steel Fibers
 
-* Sharanjit Singh, GNDEC, Ludhiana, July to December 2022
+* Sharanjit Singh, GNDEC, Ludhiana, July to December 2022  
   Topic: Evaluating 28-Days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks
 
-* Siddhant Jindal and Mool Chand, GNDEC, Ludhiana, July to December 2022 
+* Siddhant Jindal and Mool Chand, GNDEC, Ludhiana, July to December 2022  
   Topic: Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP 2000 Software in Accordance with Different Indian Guidelines
 
 
+## PG STUDENTS
 
   
  

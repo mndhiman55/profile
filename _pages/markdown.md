@@ -9,7 +9,7 @@ redirect_from:
 
 ## UG STUDENTS
 <div style="text-align: justify;">
-* Nishant, NIT Kurukshetra (January to July 2023)<br>   
+- **Nishant**, NIT Kurukshetra (January to July 2023)<br>   
   Topic: 
 </div>
 

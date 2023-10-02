@@ -1,6 +1,5 @@
 ---
-permalink: /publications/
-title: "Journal Publications"
+title: "📰 Journal Publications (SCI/SCIE)"
 ---
 
 ## Locations of key files/directories

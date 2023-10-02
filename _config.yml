@@ -77,12 +77,11 @@ analytics:
   google:
     tracking_id          :
 
-
 # Site Author
 author:
   name             : #"Aman Kumar"
   avatar           : "aman-profile-pic.png"
-  bio              : "Engineer | Researcher | Author | Editor | Inventor | Reviewer |" 
+  bio              : "<span style='font-size: 12px;'>Engineer | Researcher | Author | Editor | Inventor | Reviewer |</span>" 
   location         : "Roorkee, India"
   employer         : "CSIR-CBRI, Roorkee"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

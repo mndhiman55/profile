@@ -87,9 +87,9 @@ author_profile: true
     <strong>2.</strong> Raunaq Singh Suri, Ajay Kumar Jain, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Air Quality Prediction-A Study Using Neural Network Based Approach</em>. <strong>Journal of Soft Computing in Civil Engineering</strong>. <a href="https://doi.org/10.22115/scce.2022.352017.1488">https://doi.org/10.22115/scce.2022.352017.1488</a>
 </div>
 
-
+---
 ## <span style="color: #9933ff;">Journal Publications (Other than Scopus Indexing)</span>
-
+---
 <div style="text-align: justify;">
     <strong>1.</strong> Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar and Nishant Raj Kapoor <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>An Overview: How to Conduct a Structural Audit of Buildings Structures</em>. <strong>Structural Engineering Digest</strong>. 
 </div>
@@ -101,9 +101,9 @@ author_profile: true
 <div style="text-align: justify;">
     <strong>3.</strong> Ashok Kumar, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Akash Deep, Kishor S. Kulkarni, Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. <em>Public perception on SARS-CoV-2 transmission and air disinfection systems: A study</em>.  <strong>International Journal of Environmental Planning and Development</strong>. 
 </div>
-
+---
 ## <span style="color: #9933ff;">Conference Publications</span>
-
+---
 <div style="text-align: justify;">
     <strong>1.</strong> Sidhant Jindal, Moolchand, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP2000 Software in Accordance with Different Indian Guidelines. <strong>SSRN</strong>. Elsevier. <a href="http://dx.doi.org/10.2139/ssrn.4556976">http://dx.doi.org/10.2139/ssrn.4556976</a>
 </div>
@@ -124,9 +124,9 @@ author_profile: true
     <strong>5.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong> and Navdeep Mor <strong><span style="color: #FF0000; font-weight: bold;">(2021)</span></strong>. Prediction of accuracy of high-strength concrete using data mining technique: A review. <strong>Lecture Notes in Networks and Systems</strong>. Springer. <a href="https://doi.org/10.1007/978-981-15-3020-3_24">https://doi.org/10.1007/978-981-15-3020-3_24</a>
 </div>
 
-
+---
 ## <span style="color: #9933ff;">📋 Book Chapters</span>
-
+---
 <div style="text-align: justify;">
     <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Air Quality Modelling for Smart Cities of India by Nature Inspired AI – A Sustainable Approach</em>. <strong>Applications of Nature-inspired Computing and Optimization Techniques</strong>. Elsevier. 
 </div>

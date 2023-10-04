@@ -76,9 +76,9 @@ author_profile: true
     <strong>16.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Mazin Abed Mohammed, Krishna Kumar, Jan Nedoma <strong><span style="color: #FF0000; font-weight: bold;">(2021)</span></strong>. <em>An optimized neuro-bee algorithm approach to predict the FRP-concrete bond strength of RC beams</em>. <strong>IEEE Access</strong>. <a href="https://doi.org/10.1109/ACCESS.2021.3140046">https://doi.org/10.1109/ACCESS.2021.3140046</a>
 </div>
 
-
+---
 ## <span style="color: #9933ff;">📝 Journal Publications (Scopus Indexed)</span>
-
+---
 <div style="text-align: justify;">
     <strong>1.</strong> Sharanjit Singh, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Nishant Raj Kapoor, Kennedy C. Onyelowe, Krishna Kumar, Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Evaluating 28-days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks</em>. <strong>Advances in Materials Science and Engineering</strong>. <a href="https://doi.org/10.1155/2023/1177458">https://doi.org/10.1155/2023/1177458</a>
 </div>

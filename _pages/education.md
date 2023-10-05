@@ -5,9 +5,16 @@ author_profile: true
 
 ---
 
-<span style="color:red; font-weight:bold; font-size:24px;">Ph.D., Structural Engineering</span>  
-AcSIR—Academy of Scientific and Innovative Research, (Pursuing)
+<span style="color:black; font-weight:bold; font-size:12px;">Ph.D., Structural Engineering</span>  
+AcSIR—Academy of Scientific and Innovative Research, India 
+CSIR—Central Building Research Institute Roorkee, India
+Year = 2021 — Pursuing
 
-M.E., Construction Technology and Management, Panjab University, (2016-2018)
+<span style="color:black; font-weight:bold; font-size:12px;">M.E., Construction Technology and Management</span>
+Panjab University, Chandigarh, India (2016-2018)
+National Institute of Technical Teachers' Training and Research, Chandigarh, India
+Year = 2016 — 2018
 
-B.Tech., Civil Engineering, I.K. Gujral Punjab Technical University, (2012-2016)
+<span style="color:black; font-weight:bold; font-size:12px;">B.Tech., Civil Engineering</span>
+I.K. Gujral Punjab Technical University, Jalandhar, India 
+Year = 2012 — 2016

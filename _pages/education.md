@@ -2,9 +2,7 @@
 permalink: /education/
 title: "Trainee Students"
 author_profile: true
-redirect_from: 
-  - /md/
-  - /markdown.html
+
 ---
 
 ## UG STUDENTS

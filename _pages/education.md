@@ -5,6 +5,8 @@ author_profile: true
 
 ---
 
+## 🎓 <span style="color:red; font-weight:bold;">Education</span>
+
 
 Ph.D., Structural Engineering, AcSIR—Academy of Scientific and Innovative Research, (Pursuing)
 

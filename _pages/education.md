@@ -6,8 +6,7 @@ author_profile: true
 ---
 
 
-
-<span style="color:red; font-weight:bold;">Ph.D., Structural Engineering</span> 
+<span style="color:red; font-weight:bold; font-size:24px;">Ph.D., Structural Engineering</span>
 AcSIR—Academy of Scientific and Innovative Research, (Pursuing)
 
 M.E., Construction Technology and Management, Panjab University, (2016-2018)

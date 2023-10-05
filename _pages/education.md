@@ -1,10 +1,14 @@
 ---
 permalink: /education/
-title: "Trainee Students"
+title: #"Trainee Students"
 author_profile: true
 
 ---
 
-## UG STUDENTS
-- <div style="text-align: justify;">Nishant, NIT Kurukshetra (January to July 2023)<br>   
-  Topic:</div>
+## 🎓 Education
+
+Ph.D., Structural Engineering, AcSIR—Academy of Scientific and Innovative Research, (Pursuing)
+
+M.E., Construction Technology and Management, Panjab University, (2016-2018)
+
+B.Tech., Civil Engineering, I.K. Gujral Punjab Technical University, (2012-2016)

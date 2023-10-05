@@ -7,13 +7,6 @@ author_profile: true
 
 
 
-
-
-
-
-## 🎓 <span style="color:red; font-weight:bold;">Education</span>
-
-
 <span style="color:red; font-weight:bold;">Ph.D., Structural Engineering</span> 
 AcSIR—Academy of Scientific and Innovative Research, (Pursuing)
 

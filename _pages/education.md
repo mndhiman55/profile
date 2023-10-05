@@ -5,7 +5,6 @@ author_profile: true
 
 ---
 
-## 🎓 Education
 
 Ph.D., Structural Engineering, AcSIR—Academy of Scientific and Innovative Research, (Pursuing)
 

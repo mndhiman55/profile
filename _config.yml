@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Aman Kumar"
+  name             : "<span style='font-size: 16px; text-align: center; display: block; margin: 0 auto;'>Aman Kumar</span>" 
   avatar           : "aman-profile-pic.png"
   bio              : "<span style='font-size: 16px; text-align: center; display: block; margin: 0 auto;'>Engineer | Researcher | Author | Editor | Inventor | Reviewer |</span>" 
   location         : "Roorkee, India"

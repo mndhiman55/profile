@@ -15,11 +15,8 @@ Influence of Corrosion on Structural Performance
 
 <span style="color:black; font-weight:bold; font-size:20px;">Hybrid Areas</span>  
 Fiber Reinforced Polymer (FRP)  
-
 Fiber Reinforced Cementitious Matrix (FRCM)  
-
 Artificial Intelligence  
-
 Machine Learning  
 
 

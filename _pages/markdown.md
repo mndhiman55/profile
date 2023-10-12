@@ -47,4 +47,9 @@ redirect_from:
 - <div style="text-align: justify;">Sleek Chang, GNDEC, Ludhiana, January to August 2023<br>  
   Topic:</div>
   
- 
+ - <div style="text-align: justify;">Bharat Bhushan, JNGEC, Sundernagar, August 2023 to August 2023<br>  
+  Topic:</div>
+
+ - <div style="text-align: justify;">Rubeen Kumar, JNGEC, Sundernagar, August 2023 to August 2023<br>  
+  Topic:</div>
+  

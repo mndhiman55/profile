@@ -13,8 +13,9 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
-<strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods</em>. <strong>Arabian Journal for Science and Engineering</strong>. <a href="https://doi.org/10.1007/s13369-023-08328-0">https://doi.org/10.1007/s13369-023-08328-0</a
+<strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods</em>. <strong>Arabian Journal for Science and Engineering</strong>. <a href="https://doi.org/10.1007/s13369-023-08328-0">https://doi.org/10.1007/s13369-023-08328-0</a>
 </div>
+
 
 <div style="text-align: justify;">
 <strong>2. </strong><strong><span style="color: #0000FF;">Aman Kumar,</span></strong> Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System</em>. <strong>Computers and Concrete</strong>. <a href="https://doi.org/10.12989/cac.2023.32.2.119">https://doi.org/10.12989/cac.2023.32.2.119</a>

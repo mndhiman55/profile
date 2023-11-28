@@ -128,6 +128,19 @@ author_profile: true
 ---
 ## <span style="color: #9933ff;">📋 Book Chapters</span>
 ---
+
+<div style="text-align: justify;">
+    <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Artificial intelligence in civil engineering: An immersive view</em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. Elsevier. 
+</div>
+
+<div style="text-align: justify;">
+    <strong>1.</strong> Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Ashok Kumar, Harish Chandra Arora and Anuj Kumar <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Health Cost and Economic Burden Evaluation of Air pollution</em>. <strong>Air Pollution Vol 3: Diseases and Health Consequences of Air Pollution</strong>. Elsevier. 
+</div>
+
+<div style="text-align: justify;">
+    <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Air Quality Modelling for Smart Cities of India by Nature Inspired AI – A Sustainable Approach</em>. <strong>Applications of Nature-inspired Computing and Optimization Techniques</strong>. Elsevier. 
+</div>
+
 <div style="text-align: justify;">
     <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Air Quality Modelling for Smart Cities of India by Nature Inspired AI – A Sustainable Approach</em>. <strong>Applications of Nature-inspired Computing and Optimization Techniques</strong>. Elsevier. 
 </div>

@@ -5,7 +5,11 @@ title: #"Publications"
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 
 <div style="text-align: justify;">
-<strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods</em>. <strong>Arabian Journal for Science and Engineering</strong>.
+<strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Prashant Kumar, Nishant Raj Kapoor, and Moncef L. Nehdi <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Machine learning based graphical interface for accurate estimation of FRP-concrete bond strength under diverse exposure conditions</em>. <strong>Developments in the Built Environment</strong>. <a href="https://doi.org/10.1016/j.dibe.2023.100311">https://doi.org/10.1016/j.dibe.2023.100311</a> 
+</div>
+
+<div style="text-align: justify;">
+<strong>2.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Harish Garg, and Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Development of Efficient Prediction Model of FRP-to-Concrete Bond Strength Using Curve Fitting and ANFIS Methods</em>. <strong>Arabian Journal for Science and Engineering</strong>.
 </div>
 
 <div style="text-align: justify;">

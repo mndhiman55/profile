@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
-<strong>1.</strong> Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Ashok Kumar, Harish Chandra Arora, Anuj Kumar, and Sulakshya Gaur <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em> Energy-Efficient Strategies for Mitigating Airborne Pathogens in Buildings—Building Stage-Based Sustainable Strategies</em>. <strong>Sustainability</strong>. <a href="https://doi.org/10.1016/j.dibe.2023.100311">https://doi.org/10.1016/j.dibe.2023.100311</a>
+<strong>1.</strong> Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Ashok Kumar, Harish Chandra Arora, Anuj Kumar, and Sulakshya Gaur <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em> Energy-Efficient Strategies for Mitigating Airborne Pathogens in Buildings—Building Stage-Based Sustainable Strategies</em>. <strong>Sustainability</strong>. <a href="https://doi.org/10.3390/su16020516">https://doi.org/10.3390/su16020516</a>
 </div>
 
 

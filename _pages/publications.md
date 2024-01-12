@@ -175,11 +175,11 @@ author_profile: true
 </div>
 
 <div style="text-align: justify;">
-    <strong>8.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, and Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Quantum Computing for Indoor Environmental Quality: A Leapfrogging Technology</em>. <strong>Handbook of Research on Quantum Computing for Smart Environments</strong>. IGI Global. <a href="Insert_DOI_Here">Insert_DOI_Here</a>
+    <strong>8.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, and Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Quantum Computing for Indoor Environmental Quality: A Leapfrogging Technology</em>. <strong>Handbook of Research on Quantum Computing for Smart Environments</strong>. IGI Global. <a href="https://doi.org/10.4018/978-1-6684-6697-1.ch011">https://doi.org/10.4018/978-1-6684-6697-1.ch011</a>
 </div>
 
 <div style="text-align: justify;">
-    <strong>9.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Nishant Raj Kapoor, Harish Chandra Arora, and Ashok Kumar <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. <em>Smart Transportation Systems: Recent Developments, Current Challenges, and Opportunities</em>. <strong>Artificial Intelligence for Smart Cities and Villages: Advanced Technologies, Development</strong>. Bentham Science. <a href="Insert_DOI_Here">Insert_DOI_Here</a>
+    <strong>9.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Nishant Raj Kapoor, Harish Chandra Arora, and Ashok Kumar <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. <em>Smart Transportation Systems: Recent Developments, Current Challenges, and Opportunities</em>. <strong>Artificial Intelligence for Smart Cities and Villages: Advanced Technologies, Development</strong>. Bentham Science. <a href="https://doi.org/10.2174/9789815049251122010010">https://doi.org/10.2174/9789815049251122010010</a>
 </div>
 
 <div style="text-align: justify;">

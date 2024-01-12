@@ -13,6 +13,13 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
+    <strong>9.</strong> Harish Chandra Arora,  Bharat Bhushan, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Marijana Hadzima-Nyarko, Dorin Radu, Christiana, Nishant Raj Kapoor<strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Ensemble Learning Based Compressive Strength Prediction of Concrete Structures through Real-Time Non-Destructive Testing</em>. <strong>Scientific Reports</strong>. <a href="https://doi.org/10.1038/s41598-023-30037-9">https://doi.org/10.1038/s41598-023-30037-9</a>
+</div>
+
+
+
+
+<div style="text-align: justify;">
 <strong>1.</strong> Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Ashok Kumar, Harish Chandra Arora, Anuj Kumar, and Sulakshya Gaur <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em> Energy-Efficient Strategies for Mitigating Airborne Pathogens in Buildings—Building Stage-Based Sustainable Strategies</em>. <strong>Sustainability</strong>. <a href="https://doi.org/10.3390/su16020516">https://doi.org/10.3390/su16020516</a>
 </div>
 

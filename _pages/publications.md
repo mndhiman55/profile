@@ -207,5 +207,5 @@ author_profile: true
 </div>
 
 <div style="text-align: justify;">
-    <strong>16.</strong> Aman Kumar, Navdeep Mor <strong><span style="color: #FF0000; font-weight: bold;">(2019)</span></strong>. <em>Importance and Methods of Non-Destructive Testing (NDT) Techniques for Building Maintenance</em>. <strong>Advances in Civil Engineering</strong>. AkiNik Publications. <a href="https://doi.org/10.22271/ed.book.432">https://doi.org/10.22271/ed.book.432</a>
+    <strong>16.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong> and Navdeep Mor <strong><span style="color: #FF0000; font-weight: bold;">(2019)</span></strong>. <em>Importance and Methods of Non-Destructive Testing (NDT) Techniques for Building Maintenance</em>. <strong>Advances in Civil Engineering</strong>. AkiNik Publications. <a href="https://doi.org/10.22271/ed.book.432">https://doi.org/10.22271/ed.book.432</a>
 </div>

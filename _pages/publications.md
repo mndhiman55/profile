@@ -183,7 +183,7 @@ author_profile: true
 </div>
 
 <div style="text-align: justify;">
-    <strong>10.</strong> Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, and Ashok Kumar <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. <em>Structural Health Monitoring of Existing Building Structures for Creating Green Smart Cities Using Deep Learning</em>. <strong>Recurrent Neural Networks</strong>. CRC Press. DOI: <a href="Insert_DOI_Here">Insert_DOI_Here</a>
+    <strong>10.</strong> Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, and Ashok Kumar <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. <em>Structural Health Monitoring of Existing Building Structures for Creating Green Smart Cities Using Deep Learning</em>. <strong>Recurrent Neural Networks</strong>. CRC Press. DOI: <a href="https://doi.org/10.1201/9781003307822-15">https://doi.org/10.1201/9781003307822-15</a>
 </div>
 
 <div style="text-align: justify;">

@@ -159,7 +159,7 @@ author_profile: true
 </div>
 
 <div style="text-align: justify;">
-    <strong>4.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Nishant Raj Kapoor, and Ashok Kumar <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Artificial Neural Network Optimized with PSO to Estimate the FRP-Concrete Bond Strength</em>. <strong>Applications of Nature-inspired Computing and Optimization Techniques</strong>. Elsevier. 
+    <strong>4.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Nishant Raj Kapoor, and Ashok Kumar <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Artificial Neural Network Optimized with PSO to Estimate the FRP-Concrete Bond Strength</em>. <strong>Applications of Nature-inspired Computing and Optimization Techniques</strong>. Elsevier. <a href="https://doi.org/10.1016/bs.adcom.2023.11.014">https://doi.org/10.1016/bs.adcom.2023.11.014</a>
 </div>
 
 <div style="text-align: justify;">

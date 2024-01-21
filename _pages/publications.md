@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
-    <strong>1.</strong> Harish Chandra Arora,  Bharat Bhushan, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Marijana Hadzima-Nyarko, Dorin Radu, Christiana, Nishant Raj Kapoor <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Ensemble Learning Based Compressive Strength Prediction of Concrete Structures through Real-Time Non-Destructive Testing</em>. <strong>Scientific Reports</strong>. <a href="https://doi.org/10.1038/s41598-023-30037-9">https://doi.org/10.1038/s41598-023-30037-9</a>
+    <strong>1.</strong> Harish Chandra Arora,  Bharat Bhushan, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Marijana Hadzima-Nyarko, Dorin Radu, Christiana, Nishant Raj Kapoor <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Ensemble Learning Based Compressive Strength Prediction of Concrete Structures through Real-Time Non-Destructive Testing</em>. <strong>Scientific Reports</strong>. <a href="https://doi.org/10.1038/s41598-024-52046-y">https://doi.org/10.1038/s41598-024-52046-y</a>
 </div>
 
 <div style="text-align: justify;">

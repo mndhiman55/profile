@@ -52,4 +52,7 @@ redirect_from:
 
  - <div style="text-align: justify;">Rubeen Kumar, JNGEC, Sundernagar, August 2023 to August 2024<br>  
   Topic:</div>
+
+ - <div style="text-align: justify;">Ujjwaldeep Singh, GNDEC, Ludhiana, January to June 2024<br>  
+  Topic:</div>
   

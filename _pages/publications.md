@@ -168,7 +168,7 @@ author_profile: true
 
 
 <div style="text-align: justify;">
-    <strong>4.</strong> Danial Rezazadeh Eidgahee, Atefeh Soleymani, Hashem Jahangir, Mohaddeseh Nikpay, Harish Chandra Arora and Aman Kumar <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em> Estimating the load carrying capacity of reinforced concrete beam-column joints via soft computing techniques </em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. <a href="https://doi.org/10.1016/B978-0-443-13191-2.00014-6">https://doi.org/10.1016/B978-0-443-13191-2.00014-6</a> 
+    <strong>4.</strong> Danial Rezazadeh Eidgahee, Atefeh Soleymani, Hashem Jahangir, Mohaddeseh Nikpay, Harish Chandra Arora and Aman Kumar <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em> Estimating the load carrying capacity of reinforced concrete beam-column joints via soft computing techniques</em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. <a href="https://doi.org/10.1016/B978-0-443-13191-2.00014-6">https://doi.org/10.1016/B978-0-443-13191-2.00014-6</a> 
 </div>
 
 

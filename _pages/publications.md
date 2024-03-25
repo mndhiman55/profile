@@ -156,6 +156,28 @@ author_profile: true
 
 <div style="text-align: justify;">
     <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Artificial intelligence in civil engineering: An immersive view</em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. Elsevier. 
+</div> <a href="https://doi.org/10.1016/B978-0-443-13191-2.00009-2">https://doi.org/10.1016/B978-0-443-13191-2.00009-2</a> 
+</div>
+
+<div style="text-align: justify;">
+    <strong>1.</strong> Prashant Kumar, Harish Chandra Arora, and Aman Kumar <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em> Forecasting the compressive strength of FRCM-strengthened RC columns with machine learning algorithms </em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. Elsevier. 
+</div> <a href="https://doi.org/10.1016/B978-0-443-13191-2.00005-5">https://doi.org/10.1016/B978-0-443-13191-2.00005-5</a> 
+</div>
+
+<div style="text-align: justify;">
+    <strong>1.</strong> Prashant Kumar, Harish Chandra Arora, and Aman Kumar <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em> Assessment of shear capacity of a FRP-reinforced concrete beam without stirrup: A machine learning approach </em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. Elsevier. 
+</div> <a href="https://doi.org/10.1016/B978-0-443-13191-2.00016-X">https://doi.org/10.1016/B978-0-443-13191-2.00016-X</a> 
+</div>
+
+
+<div style="text-align: justify;">
+    <strong>1.</strong> Danial Rezazadeh Eidgahee, Atefeh Soleymani, Hashem Jahangir, Mohaddeseh Nikpay, Harish Chandra Arora and Aman Kumar <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em> Estimating the load carrying capacity of reinforced concrete beam-column joints via soft computing techniques </em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. Elsevier. 
+</div> <a href="https://doi.org/10.1016/B978-0-443-13191-2.00014-6">https://doi.org/10.1016/B978-0-443-13191-2.00014-6</a> 
+</div>
+
+
+<div style="text-align: justify;">
+    <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Artificial intelligence in civil engineering: An immersive view</em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. Elsevier. 
 </div>
 
 <div style="text-align: justify;">

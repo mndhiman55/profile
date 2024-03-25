@@ -98,6 +98,10 @@ author_profile: true
 ## <span style="color: #9933ff;">📝 Journal Publications (Scopus Indexed)</span>
 ---
 <div style="text-align: justify;">
+    <strong>2.</strong> Chandan Gupta, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Nishant Raj Kapoor, and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em> Axial Capacity Estimation of FRP-strengthened Corroded Concrete Columns </em>. <strong>Journal of Soft Computing in Civil Engineering</strong>. 
+</div>
+
+<div style="text-align: justify;">
     <strong>1.</strong> Sharanjit Singh, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Nishant Raj Kapoor, Kennedy C. Onyelowe, Krishna Kumar, Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Evaluating 28-days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks</em>. <strong>Advances in Materials Science and Engineering</strong>. <a href="https://doi.org/10.1155/2023/1177458">https://doi.org/10.1155/2023/1177458</a>
 </div>
 

@@ -155,8 +155,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
-    <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Artificial intelligence in civil engineering: An immersive view</em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. Elsevier. 
-</div> <a href="https://doi.org/10.1016/B978-0-443-13191-2.00009-2">https://doi.org/10.1016/B978-0-443-13191-2.00009-2</a> 
+    <strong>1.</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Artificial intelligence in civil engineering: An immersive view</em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. Elsevier. <a href="https://doi.org/10.1016/B978-0-443-13191-2.00009-2">https://doi.org/10.1016/B978-0-443-13191-2.00009-2</a> 
 </div>
 
 <div style="text-align: justify;">

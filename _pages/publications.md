@@ -13,6 +13,11 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
+    <strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, and Moncef L. Nehdi <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>XGBoost Algorithm Based Estimation of Near Surface Mounted FRP Rod-to-Concrete Bond Strength and Failure Mode</em>. <strong>Journal of Building Engineering</strong>. <a href="https://doi.org/10.1016/j.jobe.2024.109418">https://doi.org/10.1016/j.jobe.2024.109418</a>
+</div>
+
+
+<div style="text-align: justify;">
     <strong>1.</strong> Nishant, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Nishant Raj Kapoor, and Ashwani Jain <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Prediction of Axial Capacity of RC Columns Reinforced with Ferro-cement Jacketing: A Data-Driven Machine Learning Strategy</em>. <strong>KSCE Journal of Civil Engineering</strong>.
 </div>
 

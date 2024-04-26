@@ -13,6 +13,11 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
+    <strong>1.</strong> Bharat Bhushan, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Effect of ANN Splitting Ratios and Training Functions on Corroded Steel-to-Concrete Bond Strength</em>. <strong>Multiscale and Multidisciplinary Modeling, Experiments and Design</strong>. 
+</div>
+
+
+<div style="text-align: justify;">
     <strong>1.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, and Moncef L. Nehdi <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>XGBoost Algorithm Based Estimation of Near Surface Mounted FRP Rod-to-Concrete Bond Strength and Failure Mode</em>. <strong>Journal of Building Engineering</strong>. <a href="https://doi.org/10.1016/j.jobe.2024.109418">https://doi.org/10.1016/j.jobe.2024.109418</a>
 </div>
 

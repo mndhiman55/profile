@@ -53,7 +53,7 @@ author_profile: true
 </div>
 
 <div style="text-align: justify;">
-    <strong>(J14).</strong> Krishna Kumar, Gaurav Saini, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Rajvikram Madurai Elavarasan, Zafar Said, Vladimir Terzija <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Effective monitoring of Pelton turbine-based hydropower plants using a data-driven approach</em>. <strong><span style="color: #14A76C;">International Journal of Electrical Power & Energy Systems</strong>. <a href="https://doi.org/10.1016/j.ijepes.2023.109047">https://doi.org/10.1016/j.ijepes.2023.109047</a>
+    <strong>(J14).</strong> Krishna Kumar, Gaurav Saini, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Rajvikram Madurai Elavarasan, Zafar Said, Vladimir Terzija <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Effective monitoring of Pelton turbine-based hydropower plants using a data-driven approach</em>. <strong><span style="color: #14A76C;">International Journal of Electrical Power & Energy Systems</span></strong>. <a href="https://doi.org/10.1016/j.ijepes.2023.109047">https://doi.org/10.1016/j.ijepes.2023.109047</a>
 </div>
 
 <div style="text-align: justify;">

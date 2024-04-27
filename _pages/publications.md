@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
-    <strong>1.</strong> Bharat Bhushan, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Effect of ANN Splitting Ratios and Training Functions on Corroded Steel-to-Concrete Bond Strength</em>. <strong><span style="color: #0FA4AF;">Multiscale and Multidisciplinary Modeling, Experiments and Design</span></strong>. 
+    <strong>1.</strong> Bharat Bhushan, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Effect of ANN Splitting Ratios and Training Functions on Corroded Steel-to-Concrete Bond Strength</em>. <strong><span style="color: #EFB11D;">Multiscale and Multidisciplinary Modeling, Experiments and Design</span></strong>. 
 </div>
 
 <div style="text-align: justify;">

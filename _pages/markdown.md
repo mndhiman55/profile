@@ -9,7 +9,7 @@ redirect_from:
 
 ## UG STUDENTS
 - <div style="text-align: justify;">Nishant, NIT Kurukshetra (January to July 2023)<br>   
-  Topic:</div>
+  Topic: Prediction of Axial Capacity of RC Columns Reinforced with Ferro-cement Jacketing: A Data-Driven Machine Learning Strategy</div>
 
 - <div style="text-align: justify;">Siddhant Jindal and Mool Chand, GNDEC, Ludhiana, (July to December 2022)<br>  
   Topic: Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP 2000 Software in Accordance with Different Indian Guidelines</div>

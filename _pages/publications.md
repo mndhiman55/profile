@@ -108,6 +108,11 @@ author_profile: true
     <strong>(J01).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Mazin Abed Mohammed, Krishna Kumar, Jan Nedoma <strong><span style="color: #FF0000; font-weight: bold;">(2021)</span></strong>. <em>An optimized neuro-bee algorithm approach to predict the FRP-concrete bond strength of RC beams</em>. <strong><span style="color: #14A76C;">IEEE Access</span></strong>. <a href="https://doi.org/10.1109/ACCESS.2021.3140046">https://doi.org/10.1109/ACCESS.2021.3140046</a>
 </div>
 
+
+
+
+
+
 ---
 ## <span style="color: #9933ff;">📝 Journal Publications (Scopus Indexed)</span>
 ---
@@ -123,6 +128,12 @@ author_profile: true
     <strong>3.</strong> Raunaq Singh Suri, Ajay Kumar Jain, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Air Quality Prediction-A Study Using Neural Network Based Approach</em>. <strong>Journal of Soft Computing in Civil Engineering</strong>. <a href="https://doi.org/10.22115/scce.2022.352017.1488">https://doi.org/10.22115/scce.2022.352017.1488</a>
 </div>
 
+
+
+
+
+
+
 ---
 ## <span style="color: #9933ff;">📝 Journal Publications (Other than Scopus Indexing)</span>
 ---
@@ -137,28 +148,46 @@ author_profile: true
 <div style="text-align: justify;">
     <strong>3.</strong> Ashok Kumar, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Akash Deep, Kishor S. Kulkarni, Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. <em>Public perception on SARS-CoV-2 transmission and air disinfection systems: A study</em>.  <strong>International Journal of Environmental Planning and Development</strong>. 
 </div>
+
+
+
+
 ---
 ## <span style="color: #9933ff;">Conference Publications</span>
 ---
 <div style="text-align: justify;">
-    <strong>1.</strong> Sidhant Jindal, Moolchand, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP2000 Software in Accordance with Different Indian Guidelines. <strong>SSRN</strong>. Elsevier. <a href="http://dx.doi.org/10.2139/ssrn.4556976">http://dx.doi.org/10.2139/ssrn.4556976</a>
+    <strong>(C06).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Prashant Kumar, and Nishant Raj Kapoor <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Estimation of FRP-To-Concrete Bond Strength of Carbon and Basalt Fabric Under Moisture Conditions: A Neural Network-Based Approach. <strong>Lecture Notes in Civil Engineering </strong>. Springer. <a href=" https://doi.org/10.1007/978-3-031-60765-3_9 "> https://doi.org/10.1007/978-3-031-60765-3_9 </a>
+</div>
+
+
+<div style="text-align: justify;">
+    <strong>(C05).</strong> Sidhant Jindal, Moolchand, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP2000 Software in Accordance with Different Indian Guidelines. <strong>SSRN</strong>. Elsevier. <a href="http://dx.doi.org/10.2139/ssrn.4556976">http://dx.doi.org/10.2139/ssrn.4556976</a>
 </div>
 
 <div style="text-align: justify;">
-    <strong>2.</strong> Sarvanshdeep Singh Sahota, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Krishna Kumar, and Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. ML-Based Computational Model to Estimate the Compressive Strength of Sustainable Concrete Integrating Silica Fume and Steel Fibers. <strong>Lecture Notes in Networks and Systems</strong>. Springer. <a href="https://doi.org/10.1007/978-3-031-31153-6_20">https://doi.org/10.1007/978-3-031-31153-6_20</a>
+    <strong>(C04).</strong> Sarvanshdeep Singh Sahota, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Krishna Kumar, and Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. ML-Based Computational Model to Estimate the Compressive Strength of Sustainable Concrete Integrating Silica Fume and Steel Fibers. <strong>Lecture Notes in Networks and Systems</strong>. Springer. <a href="https://doi.org/10.1007/978-3-031-31153-6_20">https://doi.org/10.1007/978-3-031-31153-6_20</a>
 </div>
 
 <div style="text-align: justify;">
-    <strong>3.</strong> Yogesh Kumar, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Krishna Kumar, and Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Neural Network Based Algorithm to Estimate the Axial Capacity of Corroded RC Columns. <strong>Lecture Notes in Networks and Systems</strong>. Springer. <a href="https://doi.org/10.1007/978-3-031-31153-6_19">https://doi.org/10.1007/978-3-031-31153-6_19</a>
+    <strong>(C03).</strong> Yogesh Kumar, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Krishna Kumar, and Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Neural Network Based Algorithm to Estimate the Axial Capacity of Corroded RC Columns. <strong>Lecture Notes in Networks and Systems</strong>. Springer. <a href="https://doi.org/10.1007/978-3-031-31153-6_19">https://doi.org/10.1007/978-3-031-31153-6_19</a>
 </div>
 
 <div style="text-align: justify;">
-    <strong>4.</strong> Raunaq Singh Suri, Vikrant Dubey, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Megha Bhushan <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. Optimizing the compressive strength of concrete with altered compositions using hybrid PSO-ANN. <strong>Lecture Notes in Networks and System</strong>. Springer. <a href="https://doi.org/10.1007/978-3-031-13150-9_15">https://doi.org/10.1007/978-3-031-13150-9_15</a>
+    <strong>(C02).</strong> Raunaq Singh Suri, Vikrant Dubey, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Megha Bhushan <strong><span style="color: #FF0000; font-weight: bold;">(2022)</span></strong>. Optimizing the compressive strength of concrete with altered compositions using hybrid PSO-ANN. <strong>Lecture Notes in Networks and System</strong>. Springer. <a href="https://doi.org/10.1007/978-3-031-13150-9_15">https://doi.org/10.1007/978-3-031-13150-9_15</a>
 </div>
 
 <div style="text-align: justify;">
-    <strong>5.</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong> and Navdeep Mor <strong><span style="color: #FF0000; font-weight: bold;">(2021)</span></strong>. Prediction of accuracy of high-strength concrete using data mining technique: A review. <strong>Lecture Notes in Networks and Systems</strong>. Springer. <a href="https://doi.org/10.1007/978-981-15-3020-3_24">https://doi.org/10.1007/978-981-15-3020-3_24</a>
+    <strong>(C01).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong> and Navdeep Mor <strong><span style="color: #FF0000; font-weight: bold;">(2021)</span></strong>. Prediction of accuracy of high-strength concrete using data mining technique: A review. <strong>Lecture Notes in Networks and Systems</strong>. Springer. <a href="https://doi.org/10.1007/978-981-15-3020-3_24">https://doi.org/10.1007/978-981-15-3020-3_24</a>
 </div>
+
+
+
+
+
+
+
+
+
 
 ---
 ## <span style="color: #9933ff;">📋 Book Chapters</span>

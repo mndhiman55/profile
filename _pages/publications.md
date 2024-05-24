@@ -122,7 +122,7 @@ author_profile: true
 ## <span style="color: #9933ff;">📝 Journal Publications (Scopus Indexed)</span>
 ---
 <div style="text-align: justify;">
-    <strong>1.</strong> Chandan Gupta, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Nishant Raj Kapoor, and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em> Axial Capacity Estimation of FRP-strengthened Corroded Concrete Columns </em>. <strong>Journal of Soft Computing in Civil Engineering</strong>. 
+    <strong>1.</strong> Chandan Gupta, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Nishant Raj Kapoor, and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em> Axial Capacity Estimation of FRP-strengthened Corroded Concrete Columns </em>. <strong>Journal of Soft Computing in Civil Engineering</strong>. https://doi.org/10.22115/SCCE.2024.414586.1708">https://doi.org/10.22115/SCCE.2024.414586.1708</a>
 </div>
 
 <div style="text-align: justify;">

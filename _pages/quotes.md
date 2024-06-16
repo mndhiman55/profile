@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
-title: "Trainee Students"
+permalink: /quotes/
+title: "Selected Quotes"
 author_profile: true
 redirect_from: 
-  - /md/
-  - /markdown.html
+  - /qu/
+  - /quotes.html
 ---
 
 ## UG STUDENTS

@@ -13,6 +13,11 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
+    <strong>(J25).</strong> Prashant Kumar, Harish Chandra Arora,  <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Dorin Radu <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Prediction of axial capacity of corrosion-affected RC columns strengthened with inclusive FRP</em>. <strong><span style="color: #14A76C;">Scientific Reports</span></strong>. <a href="https://doi.org/10.1038/s41598-024-64756-4">https://doi.org/10.1038/s41598-024-64756-4</a>
+</div>
+
+
+<div style="text-align: justify;">
     <strong>(J24).</strong> Bharat Bhushan, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Surabhi Sharma and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Estimation of Bond Strength based on Corroded Hinge Beam Specimens: Assessment of Design Guidelines and Analytical Models</em>. <strong><span style="color: #14A76C;">Periodica Polytechnica Civil Engineering</span></strong>. 
 </div>
 

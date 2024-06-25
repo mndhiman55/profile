@@ -33,7 +33,7 @@ author_profile: true
 
 
 <div style="text-align: justify;">
-    <strong>(J21).</strong> Nishant, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Nishant Raj Kapoor, and Ashwani Jain <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Prediction of Axial Capacity of RC Columns Reinforced with Ferro-cement Jacketing: A Data-Driven Machine Learning Strategy</em>. <strong><span style="color: #14A76C;">KSCE Journal of Civil Engineering</span></strong>.
+    <strong>(J21).</strong> Nishant, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Nishant Raj Kapoor, and Ashwani Jain <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Prediction of Axial Capacity of RC Columns Reinforced with Ferro-cement Jacketing: A Data-Driven Machine Learning Strategy</em>. <strong><span style="color: #14A76C;">KSCE Journal of Civil Engineering</span></strong>. <a href="https://doi.org/10.1007/s12205-024-1365-0">https://doi.org/10.1007/s12205-024-1365-0</a>
 </div>
 
 <div style="text-align: justify;">

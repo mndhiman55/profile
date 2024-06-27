@@ -18,7 +18,7 @@ author_profile: true
 
 
 <div style="text-align: justify;">
-    <strong>(J24).</strong> Bharat Bhushan, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Surabhi Sharma and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Estimation of Bond Strength based on Corroded Hinge Beam Specimens: Assessment of Design Guidelines and Analytical Models</em>. <strong><span style="color: #14A76C;">Periodica Polytechnica Civil Engineering</span></strong>. href="https://doi.org/10.3311/PPci.36877">https://doi.org/10.3311/PPci.36877</a>
+    <strong>(J24).</strong> Bharat Bhushan, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Surabhi Sharma and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Estimation of Bond Strength based on Corroded Hinge Beam Specimens: Assessment of Design Guidelines and Analytical Models</em>. <strong><span style="color: #14A76C;">Periodica Polytechnica Civil Engineering</span></strong>. <a href="https://doi.org/10.3311/PPci.36877">https://doi.org/10.3311/PPci.36877</a>
 </div>
 
 

@@ -12,13 +12,19 @@ author_profile: true
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 ---
 
+
 <div style="text-align: justify;">
-    <strong>(J26).Sleek Chang, Harish Chandra Arora, </strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Denise-Penelope N. Kontoni, Prashant Kumar, Nishant Raj Kapoor, and Jagbir Singh. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Estimation of confined compressive strength of LRS-FRP concrete specimens with computational intelligence</em>. <strong><span style="color: #14A76C;">ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik</span></strong>. <a https://doi.org/10.1002/zamm.202400455">https://doi.org/10.1002/zamm.202400455</a>
+    <strong>(J29).Rubeen Kumar, Harish Chandra Arora, </strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, and Madhu Sharma. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Estimation of Residual Flexural Capacity of Corroded Reinforced Concrete Beams through Algorithmic Learning</em>. <strong><span style="color: #14A76C;">Practice Periodical on Structural Design and Construction</span></strong>. <a href="https://doi.org/10.1002/zamm.202400455">https://doi.org/10.1002/zamm.202400455</a>
 </div>
 
 
 <div style="text-align: justify;">
-    <strong>(J26).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Prashant Kumar, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Automated explainable ensemble learning prediction of FRP-bar-to-concrete bond strength and failure pattern under diverse exposure scenarios</em>. <strong><span style="color: #14A76C;">Construction and Building Materials</span></strong>. <a href="https://doi.org/10.1016/j.conbuildmat.2024.137840">https://doi.org/10.1016/j.conbuildmat.2024.137840</a>
+    <strong>(J28).Sleek Chang, Harish Chandra Arora, </strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Denise-Penelope N. Kontoni, Prashant Kumar, Nishant Raj Kapoor, and Jagbir Singh. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Estimation of confined compressive strength of LRS-FRP concrete specimens with computational intelligence</em>. <strong><span style="color: #14A76C;">ZAMM - Journal of Applied Mathematics and Mechanics / Zeitschrift für Angewandte Mathematik und Mechanik</span></strong>. <a href="https://doi.org/10.1002/zamm.202400455">https://doi.org/10.1002/zamm.202400455</a>
+</div>
+
+
+<div style="text-align: justify;">
+    <strong>(J27).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Prashant Kumar, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Automated explainable ensemble learning prediction of FRP-bar-to-concrete bond strength and failure pattern under diverse exposure scenarios</em>. <strong><span style="color: #14A76C;">Construction and Building Materials</span></strong>. <a href="https://doi.org/10.1016/j.conbuildmat.2024.137840">https://doi.org/10.1016/j.conbuildmat.2024.137840</a>
 </div>
 
 

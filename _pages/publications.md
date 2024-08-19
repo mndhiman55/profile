@@ -14,7 +14,7 @@ author_profile: true
 
 
 <div style="text-align: justify;">
-    <strong>(J26).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Prashant Kumar, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Automated explainable ensemble learning prediction of FRP-bar-to-concrete bond strength and failure pattern under diverse exposure scenarios</em>. <strong><span style="color: #14A76C;">Construction and Building Materials</span></strong>. <a https://doi.org/10.1016/j.conbuildmat.2024.137840">https://doi.org/10.1016/j.conbuildmat.2024.137840</a>
+    <strong>(J26).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Prashant Kumar, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Automated explainable ensemble learning prediction of FRP-bar-to-concrete bond strength and failure pattern under diverse exposure scenarios</em>. <strong><span style="color: #14A76C;">Construction and Building Materials</span></strong>. <a href="https://doi.org/10.1016/j.conbuildmat.2024.137840">https://doi.org/10.1016/j.conbuildmat.2024.137840</a>
 </div>
 
 

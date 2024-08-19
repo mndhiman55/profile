@@ -12,6 +12,12 @@ author_profile: true
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 ---
 
+
+<div style="text-align: justify;">
+    <strong>(J26).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Prashant Kumar, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Automated explainable ensemble learning prediction of FRP-bar-to-concrete bond strength and failure pattern under diverse exposure scenarios</em>. <strong><span style="color: #14A76C;">Construction and Building Materials</span></strong>. <a https://doi.org/10.1016/j.conbuildmat.2024.137840">https://doi.org/10.1016/j.conbuildmat.2024.137840</a>
+</div>
+
+
 <div style="text-align: justify;">
     <strong>(J26).</strong> Rubeen Kumar, Harish Chandra Arora,  <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Surabhi Sharma, and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Seismic Performance Assessment of Corroded Reinforced Concrete Columns Based on Codal Provision and Empirical Formulations</em>. <strong><span style="color: #14A76C;">Periodica Polytechnica Civil Engineering</span></strong>. <a href="https://doi.org/10.3311/PPci.36913">https://doi.org/10.3311/PPci.36913</a>
 </div>

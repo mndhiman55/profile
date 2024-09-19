@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 ## UG STUDENTS
+- <div style="text-align: justify;">Chandan Gupta, JNGEC, H.P. (January to July 2023)<br>   
+  Topic: xial Capacity Estimation of FRP-strengthened Corroded Concrete Columns</div>
+
 - <div style="text-align: justify;">Nishant, NIT Kurukshetra (January to July 2023)<br>   
   Topic: Prediction of Axial Capacity of RC Columns Reinforced with Ferro-cement Jacketing: A Data-Driven Machine Learning Strategy</div>
 

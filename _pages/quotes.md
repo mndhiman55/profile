@@ -45,14 +45,13 @@ redirect_from:
 
 
 - <div style="text-align: justify;">Sleek Chang, GNDEC, Ludhiana, January to August 2023<br>  
-  Topic:</div>
+  Topic: Estimation of confined compressive strength of LRS-FRP concrete specimens with computational intelligence</div>
   
  - <div style="text-align: justify;">Bharat Bhushan, JNGEC, Sundernagar, August 2023 to August 2024<br>  
-  Topic:</div>
+  Topic: Effect of ANN Splitting Ratios and Training Functions on Corroded Steel-to-Concrete Bond Strength</div>
 
  - <div style="text-align: justify;">Rubeen Kumar, JNGEC, Sundernagar, August 2023 to August 2024<br>  
-  Topic:</div>
+  Topic: Estimation of Residual Flexural Capacity of Corroded Reinforced Concrete Beams through Algorithmic Learning</div>
 
- - <div style="text-align: justify;">Ujjwaldeep Singh, GNDEC, Ludhiana, January to June 2024<br>  
-  Topic:</div>
+
   

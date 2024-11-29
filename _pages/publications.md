@@ -11,6 +11,10 @@ author_profile: true
 ---
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 ---
+<div style="text-align: justify;">
+    <strong>(J31).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>PData-driven framework with graphical user interface for predicting flexural behavior of FRCM strengthened RC beams</em>. <strong><span style="color: #14A76C;">Structures</span></strong>.
+</div>
+
 
 <div style="text-align: justify;">
     <strong>(J30).</strong> Prashant Kumar, Harish Chandra Arora, R. Siva Chidambaram, and <strong><span style="color: #0000FF;">Aman Kumar</span></strong>. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Prediction of Confined Compressive Strength of Concrete Column Strengthened with FRCM Composites</em>. <strong><span style="color: #14A76C;">Structural Concrete</span></strong>. <a href="https://doi.org/10.1002/suco.202400031">https://doi.org/10.1002/suco.202400031</a>

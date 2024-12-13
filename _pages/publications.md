@@ -22,7 +22,7 @@ author_profile: true
 
 
 <div style="text-align: justify;">
-    <strong>(J29).</strong> Rubeen Kumar, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, and Madhu Sharma. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Estimation of Residual Flexural Capacity of Corroded Reinforced Concrete Beams through Algorithmic Learning</em>. <strong><span style="color: #14A76C;">Practice Periodical on Structural Design and Construction</span></strong>.
+    <strong>(J29).</strong> Rubeen Kumar, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, and Madhu Sharma. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Estimation of Residual Flexural Capacity of Corroded Reinforced Concrete Beams through Algorithmic Learning</em>. <strong><span style="color: #14A76C;">Practice Periodical on Structural Design and Construction</span></strong>. <a href="https://doi.org/10.1061/JSDCCC.SCENG-1571">https://doi.org/10.1061/JSDCCC.SCENG-1571</a>
 </div>
 
 

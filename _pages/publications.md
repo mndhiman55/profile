@@ -93,7 +93,7 @@ author_profile: true
 
 
 <div style="text-align: justify;">
-<strong>(J15).</strong><strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System</em>. <strong><span style="color: #14A76C;">Computers and Concrete</span></strong>. <a href="https://doi.org/10.12989/cac.2023.32.2.119">https://doi.org/10.12989/cac.2023.32.2.119</a>
+<strong>(J15). </strong><strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Krishna Kumar, Hashem Jahangir, and Bharat Bhushan <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Practical Applicable Model for Estimating the Carbonation Depth in Fly-ash based Concrete by Utilizing Adaptive Neuro Fuzzy Inference System</em>. <strong><span style="color: #14A76C;">Computers and Concrete</span></strong>. <a href="https://doi.org/10.12989/cac.2023.32.2.119">https://doi.org/10.12989/cac.2023.32.2.119</a>
 </div>
 
 <div style="text-align: justify;">

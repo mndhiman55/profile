@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
-    <strong>(J32).</strong> Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Event Specific Transmission Prognosis Gleaned from Machine Learning for COVID-19 Prophylaxis in Air-Conditioned Office</em>. <strong><span style="color: #14A76C;">Indian Journal of Engineering & Materials Sciences </span></strong>.  
+    <strong>(J32).</strong> Nishant Raj Kapoor, Denise-Penelope N. Kontoni, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora. <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Event Specific Transmission Prognosis Gleaned from Machine Learning for COVID-19 Prophylaxis in Air-Conditioned Office</em>. <strong><span style="color: #14A76C;">Indian Journal of Engineering & Materials Sciences </span></strong>. <a href="https://doi.org/10.56042/ijems.v31i5.9862">https://doi.org/10.56042/ijems.v31i5.9862</a>
 </div>
 
 <div style="text-align: justify;">

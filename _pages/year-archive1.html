@@ -1,14 +1,88 @@
 ---
 layout: archive
 permalink: /year-archive1/
-title: "Books1"
+title: "Collaborators"
 author_profile: true
 ---
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 50px;">
-    <a href="https://link.springer.com/book/9789819789740" target="_blank">
-        <img src="https://github.com/mndhiman55/profile/raw/main/Springer-2025.png" alt="Springer Book" width="300" style="display: block;">
-    </a>
-    
-    
-</div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Collaboration Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .navbar {
+            display: flex;
+            justify-content: center;
+            background: #f8f8f8;
+            padding: 10px 0;
+            border-bottom: 2px solid #ddd;
+        }
+        .navbar a {
+            text-decoration: none;
+            color: #555;
+            font-size: 16px;
+            padding: 10px 20px;
+            transition: 0.3s;
+        }
+        .navbar a:hover, .navbar a.active {
+            font-weight: bold;
+            color: black;
+        }
+        #map {
+            height: 600px;
+            width: 80%;
+            margin: 20px auto;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <div class="navbar">
+        <a href="#" class="active">John Doe - USA</a>
+        <a href="#">Jane Smith - UK</a>
+        <a href="#">Ali Khan - Australia</a>
+        <a href="#">Maria Gomez - Brazil</a>
+        <a href="#">Chen Wei - China</a>
+    </div>
+
+    <!-- Map Container -->
+    <div id="map"></div>
+
+    <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map').setView([20, 0], 2); // Centered globally
+        
+        // OpenStreetMap Tile Layer
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '&copy; OpenStreetMap contributors'
+        }).addTo(map);
+
+        // Example collaborator locations
+        var collaborators = [
+            { name: "John Doe", location: "New York, USA", lat: 40.7128, lon: -74.0060 },
+            { name: "Jane Smith", location: "London, UK", lat: 51.5074, lon: -0.1278 },
+            { name: "Ali Khan", location: "Sydney, Australia", lat: -33.8688, lon: 151.2093 },
+            { name: "Maria Gomez", location: "São Paulo, Brazil", lat: -23.5505, lon: -46.6333 },
+            { name: "Chen Wei", location: "Beijing, China", lat: 39.9042, lon: 116.4074 }
+        ];
+
+        // Add markers for each collaborator
+        collaborators.forEach(person => {
+            L.marker([person.lat, person.lon])
+                .addTo(map)
+                .bindPopup(`<b>${person.name}</b><br>${person.location}`);
+        });
+    </script>
+
+</body>
+</html>

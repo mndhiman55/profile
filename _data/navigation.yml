@@ -21,11 +21,10 @@ main:
   - title: "Books"
     url: /year-archive/
     
- #- title: "CV"
-    #url: /cv/
+ - title: "CV"
+    url: /cv/
    
   - title: "Guide"
     url: /markdown/
 
-      - title: "Books1"
-    url: /year-archive1/
+

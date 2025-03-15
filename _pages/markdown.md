@@ -16,10 +16,12 @@ redirect_from:
   Topic: Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP 2000 Software in Accordance with Different Indian Guidelines<br>
   <strong style="color: green;">Available at:</strong> <a href="http://dx.doi.org/10.2139/ssrn.4556976" target="_blank">http://dx.doi.org/10.2139/ssrn.4556976</a></div>
 
+- <div style="text-align: justify;">Sharanjit Singh, GNDEC, Ludhiana, (July to December 2022)<br>   
+  Topic: Evaluating 28-Days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks<br>
+  <strong style="color: green;">Available at:</strong> <a href="https://doi.org/10.1155/2023/1177458" target="_blank">https://doi.org/10.1155/2023/1177458</a></div>
 
 
-- <div style="text-align: justify;">Sharanjit Singh, GNDEC, Ludhiana, (July to December 2022)<br>  
-  Topic: Evaluating 28-Days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks</div>
+
 
 - <div style="text-align: justify;">Sarvanshdeep Singh Sahota, GNDEC, Ludhiana, (July to December 2022)<br>  
   Topic: ML-Based Computational Model to Estimate the Compressive Strength of Sustainable Concrete Integrating Silica Fume and Steel Fibers</div>

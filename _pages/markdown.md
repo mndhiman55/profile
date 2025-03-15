@@ -12,7 +12,7 @@ redirect_from:
   Topic: Prediction of Axial Capacity of RC Columns Reinforced with Ferro-cement Jacketing: A Data-Driven Machine Learning Strategy<br>
   <strong style="color: green;">Available at:</strong> <a href="https://doi.org/10.1007/s12205-024-1365-0" target="_blank">https://doi.org/10.1007/s12205-024-1365-0</a></div>
 
-<div style="text-align: justify;">Siddhant Jindal and Mool Chand, GNDEC, Ludhiana, (July to December 2022)<br>   
+- <div style="text-align: justify;">Siddhant Jindal and Mool Chand, GNDEC, Ludhiana, (July to December 2022)<br>   
   Topic: Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP 2000 Software in Accordance with Different Indian Guidelines<br>
   <strong style="color: green;">Available at:</strong> <a href="https://doi.org/10.1007/s12205-024-1365-0" target="_blank">https://doi.org/10.1007/s12205-024-1365-0</a></div>
 

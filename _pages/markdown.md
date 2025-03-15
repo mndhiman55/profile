@@ -14,7 +14,7 @@ redirect_from:
 
 - <div style="text-align: justify;">Siddhant Jindal and Mool Chand, GNDEC, Ludhiana, (July to December 2022)<br>   
   Topic: Seismic Evaluation and Retrofitting of RC Corroded Structures Using SAP 2000 Software in Accordance with Different Indian Guidelines<br>
-  <strong style="color: green;">Available at:</strong> <a href="https://doi.org/10.1007/s12205-024-1365-0" target="_blank">https://doi.org/10.1007/s12205-024-1365-0</a></div>
+  <strong style="color: green;">Available at:</strong> <a href="http://dx.doi.org/10.2139/ssrn.4556976" target="_blank">http://dx.doi.org/10.2139/ssrn.4556976</a></div>
 
 
 

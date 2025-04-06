@@ -11,6 +11,11 @@ author_profile: true
 ---
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 ---
+
+<div style="text-align: justify;">
+    <strong>(J33).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Afshin Marani, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2025)</span></strong>. <em>Generative Adversarial Network Approach for Predicting Tensile Behavior and Failure Pattern of Fiber-Reinforced Cementitious Matrix</em>. <strong><span style="color: #14A76C;">Engineering Structures</span></strong>. <a href="https://doi.org/10.1061/JSDCCC.SCENG-1571">https://doi.org/10.1061/JSDCCC.SCENG-1571</a>
+</div>
+
 <div style="text-align: justify;">
     <strong>(J32).</strong> Rubeen Kumar, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, and Madhu Sharma. <strong><span style="color: #FF0000; font-weight: bold;">(2025)</span></strong>. <em>Estimation of Residual Flexural Capacity of Corroded Reinforced Concrete Beams through Algorithmic Learning</em>. <strong><span style="color: #14A76C;">Journal of Structural Design and Construction Practice</span></strong>. <a href="https://doi.org/10.1061/JSDCCC.SCENG-1571">https://doi.org/10.1061/JSDCCC.SCENG-1571</a>
 </div>

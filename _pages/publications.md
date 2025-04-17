@@ -13,7 +13,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
-    <strong>(J33).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Afshin Marani, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2025)</span></strong>. <em>Generative Adversarial Network Approach for Predicting Tensile Behavior and Failure Pattern of Fiber-Reinforced Cementitious Matrix</em>. <strong><span style="color: #14A76C;">Engineering Structures</span></strong>. <a href="https://doi.org/10.1016/j.engstruct.2025.120276">https://doi.org/10.1016/j.engstruct.2025.120276</a>
+    <strong>(J33).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Afshin Marani, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2025)</span></strong>. <em>Generative adversarial network approach for predicting tensile behavior and failure pattern of fiber-reinforced cementitious matrices</em>. <strong><span style="color: #14A76C;">Engineering Structures</span></strong>. <a href="https://doi.org/10.1016/j.engstruct.2025.120276">https://doi.org/10.1016/j.engstruct.2025.120276</a>
 </div>
 
 <div style="text-align: justify;">

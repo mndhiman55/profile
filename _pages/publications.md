@@ -204,7 +204,7 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
-    <strong>(C07).</strong> Dorin Radu, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Aleksandar Sedmak, Simon Sedmak, and Mihajlo Arandjelovic <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Fracture Behaviour Prediction of an Historical Bridge Steel Elements Using Machine Learning Models. <strong> ECF24, Zagreb, 26-30 August, Croatia </strong>.
+    <strong>(C07).</strong> Dorin Radu, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Aleksandar Sedmak, Simon Sedmak, and Mihajlo Arandjelovic <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. Fracture Behaviour Prediction of an Historical Bridge Steel Elements Using Machine Learning Models. <strong> ECF24, Zagreb, 26-30 August, Croatia </strong>.
 </div>
 
 

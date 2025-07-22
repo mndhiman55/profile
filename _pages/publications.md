@@ -202,6 +202,12 @@ author_profile: true
 ---
 ## <span style="color: #9933ff;">Conference Publications</span>
 ---
+
+<div style="text-align: justify;">
+    <strong>(C07).</strong> Dorin Radu, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Aleksandar Sedmak, Simon Sedmak, and Mihajlo Arandjelovic <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Fracture Behaviour Prediction of an Historical Bridge Steel Elements Using Machine Learning Models. <strong> ECF24, Zagreb, 26-30 August, Croatia </strong>.
+</div>
+
+
 <div style="text-align: justify;">
     <strong>(C06).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Prashant Kumar, and Nishant Raj Kapoor <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. Estimation of FRP-To-Concrete Bond Strength of Carbon and Basalt Fabric Under Moisture Conditions: A Neural Network-Based Approach. <strong>Lecture Notes in Civil Engineering </strong>. Springer. <a href=" https://doi.org/10.1007/978-3-031-60765-3_9 "> https://doi.org/10.1007/978-3-031-60765-3_9 </a>
 </div>

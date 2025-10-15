@@ -251,6 +251,11 @@ author_profile: true
 ---
 
 <div style="text-align: justify;">
+    <strong>(BC20).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Moncef L. Nehdi <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Introduction to Data-Driven Groundwater Modeling: Methods, Applications & Challenges</em>. </strong>Hydrological Insights: Synergizing Groundwater Models, Remote Sensing, and AI for Water Sustainability</strong>. <a href="https://doi.org/10.1016/B978-0-443-36394-8.00003-0">https://doi.org/10.1016/B978-0-443-36394-8.00003-0</a> 
+</div>
+
+
+<div style="text-align: justify;">
     <strong>(BC19).</strong> Nishant Raj Kapoor, Ashok Kumar, Anuj Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Harish Chandra Arora <strong><span style="color: #FF0000; font-weight: bold;">(2024)</span></strong>. <em>Artificial intelligence in civil engineering: An immersive view</em>. <strong>Artificial Intelligence Applications for Sustainable Construction</strong>. <a href="https://doi.org/10.1016/B978-0-443-13191-2.00009-2">https://doi.org/10.1016/B978-0-443-13191-2.00009-2</a> 
 </div>
 

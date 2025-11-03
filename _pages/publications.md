@@ -11,6 +11,9 @@ author_profile: true
 ---
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 ---
+<div style="text-align: justify;">
+    <strong>(J35).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>,  Afshin Marani, Asim Abbas, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2025)</span></strong>. <em>Prognosticating fabric-reinforced cementitious matrix-to-masonry bond and failure mechanisms using novel tabular variational autoencoder-augmented probabilistic model</em>. <strong><span style="color: #14A76C;">Engineering Applications of Artificial Intelligence</span></strong>. <a href="https://doi.org/10.1016/j.engappai.2025.113059"> https://doi.org/10.1016/j.engappai.2025.113059</a>
+</div>
 
 <div style="text-align: justify;">
     <strong>(J34).</strong> Asim Abbas, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2025)</span></strong>. <em>Hybrid Generative Adversarial Network and Machine Learning Approach for Performance Prediction of Marshall Stability and Marshall Flow of Recycled Asphalt Shingle Pavements</em>. <strong><span style="color: #14A76C;">Construction and Building Materials</span></strong>. <a href="https://doi.org/10.1016/j.conbuildmat.2025.143369">https://doi.org/10.1016/j.conbuildmat.2025.143369</a>

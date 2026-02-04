@@ -175,15 +175,19 @@ author_profile: true
 ## <span style="color: #9933ff;">📝 Journal Publications (Scopus Indexed)</span>
 ---
 <div style="text-align: justify;">
-    <strong>1.</strong> Chandan Gupta, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Nishant Raj Kapoor, and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em> Axial Capacity Estimation of FRP-strengthened Corroded Concrete Columns </em>. <strong>Journal of Soft Computing in Civil Engineering</strong>. <a href="https://doi.org/10.22115/SCCE.2024.414586.1708">https://doi.org/10.22115/SCCE.2024.414586.1708</a>
+    <strong>1.</strong> Prashant Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Moncef L. Nehdi <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em> Data-Driven Structural Performance Assessment of FRP-Confined Concrete under Environmental Exposure</strong>. <strong>Progress in Engineering Science</strong>. <a href="https://doi.org/10.1016/j.pes.2026.100222">https://doi.org/10.1016/j.pes.2026.100222</a>
 </div>
 
 <div style="text-align: justify;">
-    <strong>2.</strong> Sharanjit Singh, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Nishant Raj Kapoor, Kennedy C. Onyelowe, Krishna Kumar, Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Evaluating 28-days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks</em>. <strong>Advances in Materials Science and Engineering</strong>. <a href="https://doi.org/10.1155/2023/1177458">https://doi.org/10.1155/2023/1177458</a>
+    <strong>2.</strong> Chandan Gupta, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Prashant Kumar, Nishant Raj Kapoor, and Madhu Sharma <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em> Axial Capacity Estimation of FRP-strengthened Corroded Concrete Columns</em>. <strong>Journal of Soft Computing in Civil Engineering</strong>. <a href="https://doi.org/10.22115/SCCE.2024.414586.1708">https://doi.org/10.22115/SCCE.2024.414586.1708</a>
 </div>
 
 <div style="text-align: justify;">
-    <strong>3.</strong> Raunaq Singh Suri, Ajay Kumar Jain, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Air Quality Prediction-A Study Using Neural Network Based Approach</em>. <strong>Journal of Soft Computing in Civil Engineering</strong>. <a href="https://doi.org/10.22115/scce.2022.352017.1488">https://doi.org/10.22115/scce.2022.352017.1488</a>
+    <strong>3.</strong> Sharanjit Singh, Harish Chandra Arora, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Nishant Raj Kapoor, Kennedy C. Onyelowe, Krishna Kumar, Hardeep Singh Rai <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Evaluating 28-days Performance of Rice Husk Ash Green Concrete under Compression Gleaned from Neural Networks</em>. <strong>Advances in Materials Science and Engineering</strong>. <a href="https://doi.org/10.1155/2023/1177458">https://doi.org/10.1155/2023/1177458</a>
+</div>
+
+<div style="text-align: justify;">
+    <strong>4.</strong> Raunaq Singh Suri, Ajay Kumar Jain, Nishant Raj Kapoor, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Harish Chandra Arora, Krishna Kumar, Hashem Jahangir <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em>Air Quality Prediction-A Study Using Neural Network Based Approach</em>. <strong>Journal of Soft Computing in Civil Engineering</strong>. <a href="https://doi.org/10.22115/scce.2022.352017.1488">https://doi.org/10.22115/scce.2022.352017.1488</a>
 </div>
 
 

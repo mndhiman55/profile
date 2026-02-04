@@ -175,7 +175,7 @@ author_profile: true
 ## <span style="color: #9933ff;">📝 Journal Publications (Scopus Indexed)</span>
 ---
 <div style="text-align: justify;">
-    <strong>1.</strong> Prashant Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Moncef L. Nehdi <strong><span style="color: #FF0000; font-weight: bold;">(2023)</span></strong>. <em> Data-Driven Structural Performance Assessment of FRP-Confined Concrete under Environmental Exposure</strong>. <strong>Progress in Engineering Science</strong>. <a href="https://doi.org/10.1016/j.pes.2026.100222">https://doi.org/10.1016/j.pes.2026.100222</a>
+    <strong>1.</strong> Prashant Kumar, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Moncef L. Nehdi <strong><span style="color: #FF0000; font-weight: bold;">(2026)</span></strong>. <em> Data-Driven Structural Performance Assessment of FRP-Confined Concrete under Environmental Exposure</strong>. <strong>Progress in Engineering Science</strong>. <a href="https://doi.org/10.1016/j.pes.2026.100222">https://doi.org/10.1016/j.pes.2026.100222</a>
 </div>
 
 <div style="text-align: justify;">

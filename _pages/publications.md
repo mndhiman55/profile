@@ -12,6 +12,12 @@ author_profile: true
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 ---
 <div style="text-align: justify;">
+    <strong>(J37).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Afshin Marani, Asim Abbas, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2025)</span></strong>. <em>Hybrid generative-probabilistic machine learning approach for predicting residual tensile strength and elastic modulus of FRP coupons under environmental exposure</em>. <strong><span style="color: #14A76C;">Mechanical Systems and Signal Processing</span></strong>. <a href="https://doi.org/10.1016/j.ymssp.2026.114033"> https://doi.org/10.1016/j.ymssp.2026.114033</a> 
+</div>
+
+
+
+<div style="text-align: justify;">
     <strong>(J36).</strong> Asim Abbas, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2025)</span></strong>. <em>Recycling Roof Shingle with Added Value: Critical Analysis of Characteristics, Practices, Challenges, and Future Research Directions</em>. <strong><span style="color: #14A76C;">Innovative Infrastructure Solutions</span></strong>. <a href="https://doi.org/10.1007/s41062-025-02450-8"> https://doi.org/10.1007/s41062-025-02450-8</a>
 </div>
 

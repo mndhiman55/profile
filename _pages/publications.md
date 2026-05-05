@@ -12,6 +12,11 @@ author_profile: true
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 ---
 <div style="text-align: justify;">
+    <strong>(J36).</strong> Asim Abbas, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2026)</span></strong>. <em>Data-driven generative adversarial network and machine learning hybrid framework for predicting rutting depth in recycled asphalt shingle pavements</em>. <strong><span style="color: #14A76C;">International Journal of Pavement Engineering</span></strong>. 
+</div>
+
+
+<div style="text-align: justify;">
     <strong>(J38).</strong> <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, Asim Abbas, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2026)</span></strong>. <em>Innovative Uncertainty-aware Probabilistic Framework for Quantification of Fiber-reinforced Cementitious Matrix–concrete Bond</em>. <strong><span style="color: #14A76C;">Advanced Engineering Informatics</span></strong>. <a href="https://doi.org/10.1016/j.aei.2026.104717"> https://doi.org/10.1016/j.aei.2026.104717</a> 
 </div>
 

@@ -12,7 +12,7 @@ author_profile: true
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 ---
 <div style="text-align: justify;">
-    <strong>(J39).</strong> Asim Abbas, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2026)</span></strong>. <em>Data-driven generative adversarial network and machine learning hybrid framework for predicting rutting depth in recycled asphalt shingle pavements</em>. <strong><span style="color: #14A76C;">International Journal of Pavement Engineering</span></strong>. 
+    <strong>(J39).</strong> Asim Abbas, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2026)</span></strong>. <em>Data-driven generative adversarial network and machine learning hybrid framework for predicting rutting depth in recycled asphalt shingle pavements</em>. <strong><span style="color: #14A76C;">International Journal of Pavement Engineering</span></strong>. <a href="https://doi.org/10.1080/10298436.2026.2668561"> https://doi.org/10.1080/10298436.2026.2668561</a> 
 </div>
 
 

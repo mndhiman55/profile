@@ -12,7 +12,7 @@ author_profile: true
 ## <span style="color: #9933ff;">📰 Journal Publications (SCI/SCIE)</span>
 ---
 <div style="text-align: justify;">
-    <strong>(J40).</strong> Asim Abbas, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2026)</span></strong>. <em>Physics-Informed TVAE and Probabilistic Learning for Uncertainty-Aware Prediction of Tensile Strength and Moisture Susceptibility in Sustainable Asphalt Mixtures</em>. <strong><span style="color: #14A76C;">Cleaner Materials</span></strong>. 
+    <strong>(J40).</strong> Asim Abbas, <strong><span style="color: #0000FF;">Aman Kumar</span></strong>, and Moncef L. Nehdi. <strong><span style="color: #FF0000; font-weight: bold;">(2026)</span></strong>. <em>Physics-Informed TVAE and Probabilistic Learning for Uncertainty-Aware Prediction of Tensile Strength and Moisture Susceptibility in Sustainable Asphalt Mixtures</em>. <strong><span style="color: #14A76C;">Cleaner Materials</span></strong>. <a href="https://doi.org/10.1016/j.clema.2026.100404"> https://doi.org/10.1016/j.clema.2026.100404</a>
 </div>
 
 <div style="text-align: justify;">
